@@ -1,0 +1,11 @@
+C:\Users\Fineas\source\repos\Timp\Timp\bin\Debug\Timp.exe.config
+C:\Users\Fineas\source\repos\Timp\Timp\bin\Debug\Timp.exe
+C:\Users\Fineas\source\repos\Timp\Timp\bin\Debug\Timp.pdb
+C:\Users\Fineas\source\repos\Timp\Timp\obj\Debug\Timp.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\Timp\Timp\obj\Debug\Timp.Form1.resources
+C:\Users\Fineas\source\repos\Timp\Timp\obj\Debug\Timp.Properties.Resources.resources
+C:\Users\Fineas\source\repos\Timp\Timp\obj\Debug\Timp.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\Timp\Timp\obj\Debug\Timp.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\Timp\Timp\obj\Debug\Timp.exe
+C:\Users\Fineas\source\repos\Timp\Timp\obj\Debug\Timp.pdb
+C:\Users\Fineas\source\repos\Timp\Timp\obj\Debug\Timp.Anul.resources

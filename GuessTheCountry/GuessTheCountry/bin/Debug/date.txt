@@ -1,0 +1,13 @@
+Romania#Bucuresti#Bucuresti.jpg
+Grecia#Atena#Atena.jpg
+Emiratele Arabe Unite#Dubai#Dubai.jpg
+Egipt#Cairo#Cairo.jpg
+Japonia#Tokyo#Tokyo.jpg
+Anglia#Londra#Londra.jpg
+Franta#Paris#Paris.jpg
+Peru#Lima#Lima.jpg
+SUA#Washington DC#WashingtonDC.jpg
+Turcia#Ankara#Ankara.jpg
+Rusia#Moscova#Moscova.jpg
+Italia#Roma#Roma.jpg
+Spania#Madrid#Madrid.jpg

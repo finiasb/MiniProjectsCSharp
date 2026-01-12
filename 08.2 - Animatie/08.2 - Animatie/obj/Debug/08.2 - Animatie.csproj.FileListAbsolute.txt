@@ -1,0 +1,10 @@
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\08.2 - Animatie\08.2 - Animatie\bin\Debug\08.2 - Animatie.exe.config
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\08.2 - Animatie\08.2 - Animatie\bin\Debug\08.2 - Animatie.exe
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\08.2 - Animatie\08.2 - Animatie\bin\Debug\08.2 - Animatie.pdb
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\08.2 - Animatie\08.2 - Animatie\obj\Debug\08.2 - Animatie.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\08.2 - Animatie\08.2 - Animatie\obj\Debug\_08._2___Animatie.Form1.resources
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\08.2 - Animatie\08.2 - Animatie\obj\Debug\_08._2___Animatie.Properties.Resources.resources
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\08.2 - Animatie\08.2 - Animatie\obj\Debug\08.2 - Animatie.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\08.2 - Animatie\08.2 - Animatie\obj\Debug\08.2 - Animatie.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\08.2 - Animatie\08.2 - Animatie\obj\Debug\08.2 - Animatie.exe
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\08.2 - Animatie\08.2 - Animatie\obj\Debug\08.2 - Animatie.pdb

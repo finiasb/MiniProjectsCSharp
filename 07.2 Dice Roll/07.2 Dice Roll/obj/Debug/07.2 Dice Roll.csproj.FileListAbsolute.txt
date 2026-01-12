@@ -1,0 +1,10 @@
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\07.2 Dice Roll\07.2 Dice Roll\bin\Debug\07.2 Dice Roll.exe.config
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\07.2 Dice Roll\07.2 Dice Roll\bin\Debug\07.2 Dice Roll.exe
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\07.2 Dice Roll\07.2 Dice Roll\bin\Debug\07.2 Dice Roll.pdb
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\07.2 Dice Roll\07.2 Dice Roll\obj\Debug\07.2 Dice Roll.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\07.2 Dice Roll\07.2 Dice Roll\obj\Debug\_07._2_Dice_Roll.Form1.resources
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\07.2 Dice Roll\07.2 Dice Roll\obj\Debug\_07._2_Dice_Roll.Properties.Resources.resources
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\07.2 Dice Roll\07.2 Dice Roll\obj\Debug\07.2 Dice Roll.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\07.2 Dice Roll\07.2 Dice Roll\obj\Debug\07.2 Dice Roll.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\07.2 Dice Roll\07.2 Dice Roll\obj\Debug\07.2 Dice Roll.exe
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\07.2 Dice Roll\07.2 Dice Roll\obj\Debug\07.2 Dice Roll.pdb

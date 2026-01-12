@@ -1,0 +1,17 @@
+C:\Users\Fineas\source\repos\Vineri\Vineri\bin\Debug\net8.0-windows\Vineri.exe
+C:\Users\Fineas\source\repos\Vineri\Vineri\bin\Debug\net8.0-windows\Vineri.deps.json
+C:\Users\Fineas\source\repos\Vineri\Vineri\bin\Debug\net8.0-windows\Vineri.runtimeconfig.json
+C:\Users\Fineas\source\repos\Vineri\Vineri\bin\Debug\net8.0-windows\Vineri.dll
+C:\Users\Fineas\source\repos\Vineri\Vineri\bin\Debug\net8.0-windows\Vineri.pdb
+C:\Users\Fineas\source\repos\Vineri\Vineri\obj\Debug\net8.0-windows\Vineri.Form1.resources
+C:\Users\Fineas\source\repos\Vineri\Vineri\obj\Debug\net8.0-windows\Vineri.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\Vineri\Vineri\obj\Debug\net8.0-windows\Vineri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fineas\source\repos\Vineri\Vineri\obj\Debug\net8.0-windows\Vineri.AssemblyInfoInputs.cache
+C:\Users\Fineas\source\repos\Vineri\Vineri\obj\Debug\net8.0-windows\Vineri.AssemblyInfo.cs
+C:\Users\Fineas\source\repos\Vineri\Vineri\obj\Debug\net8.0-windows\Vineri.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\Vineri\Vineri\obj\Debug\net8.0-windows\Vineri.dll
+C:\Users\Fineas\source\repos\Vineri\Vineri\obj\Debug\net8.0-windows\refint\Vineri.dll
+C:\Users\Fineas\source\repos\Vineri\Vineri\obj\Debug\net8.0-windows\Vineri.pdb
+C:\Users\Fineas\source\repos\Vineri\Vineri\obj\Debug\net8.0-windows\Vineri.genruntimeconfig.cache
+C:\Users\Fineas\source\repos\Vineri\Vineri\obj\Debug\net8.0-windows\ref\Vineri.dll
+C:\Users\Fineas\source\repos\Vineri\Vineri\obj\Debug\net8.0-windows\Vineri.Form2.resources

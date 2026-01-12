@@ -1,0 +1,10 @@
+C:\Users\Fineas\source\repos\Catalog\Catalog\bin\Debug\Catalog.exe.config
+C:\Users\Fineas\source\repos\Catalog\Catalog\bin\Debug\Catalog.exe
+C:\Users\Fineas\source\repos\Catalog\Catalog\bin\Debug\Catalog.pdb
+C:\Users\Fineas\source\repos\Catalog\Catalog\obj\Debug\Catalog.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\Catalog\Catalog\obj\Debug\Catalog.Form1.resources
+C:\Users\Fineas\source\repos\Catalog\Catalog\obj\Debug\Catalog.Properties.Resources.resources
+C:\Users\Fineas\source\repos\Catalog\Catalog\obj\Debug\Catalog.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\Catalog\Catalog\obj\Debug\Catalog.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\Catalog\Catalog\obj\Debug\Catalog.exe
+C:\Users\Fineas\source\repos\Catalog\Catalog\obj\Debug\Catalog.pdb

@@ -1,0 +1,10 @@
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\07.1 Xmas mood\07.1 Xmas mood\bin\Debug\07.1 Xmas mood.exe.config
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\07.1 Xmas mood\07.1 Xmas mood\bin\Debug\07.1 Xmas mood.exe
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\07.1 Xmas mood\07.1 Xmas mood\bin\Debug\07.1 Xmas mood.pdb
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\07.1 Xmas mood\07.1 Xmas mood\obj\Debug\07.1 Xmas mood.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\07.1 Xmas mood\07.1 Xmas mood\obj\Debug\_07._1_Xmas_mood.Form1.resources
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\07.1 Xmas mood\07.1 Xmas mood\obj\Debug\_07._1_Xmas_mood.Properties.Resources.resources
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\07.1 Xmas mood\07.1 Xmas mood\obj\Debug\07.1 Xmas mood.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\07.1 Xmas mood\07.1 Xmas mood\obj\Debug\07.1 Xmas mood.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\07.1 Xmas mood\07.1 Xmas mood\obj\Debug\07.1 Xmas mood.exe
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\07.1 Xmas mood\07.1 Xmas mood\obj\Debug\07.1 Xmas mood.pdb

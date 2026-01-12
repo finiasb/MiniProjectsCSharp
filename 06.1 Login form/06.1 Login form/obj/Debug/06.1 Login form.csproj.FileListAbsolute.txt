@@ -1,0 +1,12 @@
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\06.1 Login form\06.1 Login form\bin\Debug\06.1 Login form.exe.config
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\06.1 Login form\06.1 Login form\bin\Debug\06.1 Login form.exe
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\06.1 Login form\06.1 Login form\bin\Debug\06.1 Login form.pdb
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\06.1 Login form\06.1 Login form\obj\Debug\06.1 Login form.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\06.1 Login form\06.1 Login form\obj\Debug\_06._1_Login_form.CreareCont.resources
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\06.1 Login form\06.1 Login form\obj\Debug\_06._1_Login_form.Form1.resources
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\06.1 Login form\06.1 Login form\obj\Debug\_06._1_Login_form.Properties.Resources.resources
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\06.1 Login form\06.1 Login form\obj\Debug\06.1 Login form.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\06.1 Login form\06.1 Login form\obj\Debug\06.1 Login form.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\06.1 Login form\06.1 Login form\obj\Debug\06.1 Login form.exe
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\06.1 Login form\06.1 Login form\obj\Debug\06.1 Login form.pdb
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\06.1 Login form\06.1 Login form\obj\Debug\_06._1_Login_form.Aplicatie.resources

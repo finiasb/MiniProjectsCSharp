@@ -1,0 +1,10 @@
+C:\Users\Fineas\source\repos\Judeteana2011\Judeteana2011\bin\Debug\Judeteana2011.exe.config
+C:\Users\Fineas\source\repos\Judeteana2011\Judeteana2011\bin\Debug\Judeteana2011.exe
+C:\Users\Fineas\source\repos\Judeteana2011\Judeteana2011\bin\Debug\Judeteana2011.pdb
+C:\Users\Fineas\source\repos\Judeteana2011\Judeteana2011\obj\Debug\Judeteana2011.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\Judeteana2011\Judeteana2011\obj\Debug\Judeteana2011.Form1.resources
+C:\Users\Fineas\source\repos\Judeteana2011\Judeteana2011\obj\Debug\Judeteana2011.Properties.Resources.resources
+C:\Users\Fineas\source\repos\Judeteana2011\Judeteana2011\obj\Debug\Judeteana2011.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\Judeteana2011\Judeteana2011\obj\Debug\Judeteana2011.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\Judeteana2011\Judeteana2011\obj\Debug\Judeteana2011.exe
+C:\Users\Fineas\source\repos\Judeteana2011\Judeteana2011\obj\Debug\Judeteana2011.pdb

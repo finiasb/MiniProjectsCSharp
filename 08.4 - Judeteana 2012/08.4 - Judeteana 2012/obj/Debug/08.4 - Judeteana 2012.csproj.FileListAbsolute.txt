@@ -1,0 +1,11 @@
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\06.4\08.4 - Judeteana 2012\08.4 - Judeteana 2012\bin\Debug\08.4 - Judeteana 2012.exe.config
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\06.4\08.4 - Judeteana 2012\08.4 - Judeteana 2012\bin\Debug\08.4 - Judeteana 2012.exe
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\06.4\08.4 - Judeteana 2012\08.4 - Judeteana 2012\bin\Debug\08.4 - Judeteana 2012.pdb
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\06.4\08.4 - Judeteana 2012\08.4 - Judeteana 2012\obj\Debug\08.4 - Judeteana 2012.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\06.4\08.4 - Judeteana 2012\08.4 - Judeteana 2012\obj\Debug\_08._4___Judeteana_2012.Form1.resources
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\06.4\08.4 - Judeteana 2012\08.4 - Judeteana 2012\obj\Debug\_08._4___Judeteana_2012.Properties.Resources.resources
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\06.4\08.4 - Judeteana 2012\08.4 - Judeteana 2012\obj\Debug\08.4 - Judeteana 2012.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\06.4\08.4 - Judeteana 2012\08.4 - Judeteana 2012\obj\Debug\08.4 - Judeteana 2012.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\06.4\08.4 - Judeteana 2012\08.4 - Judeteana 2012\obj\Debug\08.4 - Judeteana 2012.exe
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\06.4\08.4 - Judeteana 2012\08.4 - Judeteana 2012\obj\Debug\08.4 - Judeteana 2012.pdb
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\06.4\08.4 - Judeteana 2012\08.4 - Judeteana 2012\obj\Debug\_08._4___Judeteana_2012.Form2.resources

@@ -1,0 +1,10 @@
+C:\Users\Fineas\source\repos\Numericup_and_down\Numericup_and_down\bin\Debug\Numericup_and_down.exe.config
+C:\Users\Fineas\source\repos\Numericup_and_down\Numericup_and_down\bin\Debug\Numericup_and_down.exe
+C:\Users\Fineas\source\repos\Numericup_and_down\Numericup_and_down\bin\Debug\Numericup_and_down.pdb
+C:\Users\Fineas\source\repos\Numericup_and_down\Numericup_and_down\obj\Debug\Numericup_and_down.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\Numericup_and_down\Numericup_and_down\obj\Debug\Numericup_and_down.Form1.resources
+C:\Users\Fineas\source\repos\Numericup_and_down\Numericup_and_down\obj\Debug\Numericup_and_down.Properties.Resources.resources
+C:\Users\Fineas\source\repos\Numericup_and_down\Numericup_and_down\obj\Debug\Numericup_and_down.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\Numericup_and_down\Numericup_and_down\obj\Debug\Numericup_and_down.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\Numericup_and_down\Numericup_and_down\obj\Debug\Numericup_and_down.exe
+C:\Users\Fineas\source\repos\Numericup_and_down\Numericup_and_down\obj\Debug\Numericup_and_down.pdb

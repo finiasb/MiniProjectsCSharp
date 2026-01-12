@@ -1,0 +1,10 @@
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\06.2 - Fitness small app\06.2 - Fitness small app\bin\Debug\06.2 - Fitness small app.exe.config
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\06.2 - Fitness small app\06.2 - Fitness small app\bin\Debug\06.2 - Fitness small app.exe
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\06.2 - Fitness small app\06.2 - Fitness small app\bin\Debug\06.2 - Fitness small app.pdb
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\06.2 - Fitness small app\06.2 - Fitness small app\obj\Debug\06.2 - Fitness small app.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\06.2 - Fitness small app\06.2 - Fitness small app\obj\Debug\_06._2___Fitness_small_app.Form1.resources
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\06.2 - Fitness small app\06.2 - Fitness small app\obj\Debug\_06._2___Fitness_small_app.Properties.Resources.resources
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\06.2 - Fitness small app\06.2 - Fitness small app\obj\Debug\06.2 - Fitness small app.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\06.2 - Fitness small app\06.2 - Fitness small app\obj\Debug\06.2 - Fitness small app.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\06.2 - Fitness small app\06.2 - Fitness small app\obj\Debug\06.2 - Fitness small app.exe
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\06.2 - Fitness small app\06.2 - Fitness small app\obj\Debug\06.2 - Fitness small app.pdb

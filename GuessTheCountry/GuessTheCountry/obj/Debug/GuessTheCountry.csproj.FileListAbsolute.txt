@@ -1,0 +1,24 @@
+C:\Users\Fineas\source\repos\GuessTheCountry\GuessTheCountry\bin\Debug\GuessTheCountry.exe.config
+C:\Users\Fineas\source\repos\GuessTheCountry\GuessTheCountry\bin\Debug\GuessTheCountry.exe
+C:\Users\Fineas\source\repos\GuessTheCountry\GuessTheCountry\bin\Debug\GuessTheCountry.pdb
+C:\Users\Fineas\source\repos\GuessTheCountry\GuessTheCountry\obj\Debug\GuessTheCountry.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\GuessTheCountry\GuessTheCountry\obj\Debug\GuessTheCountry.Form1.resources
+C:\Users\Fineas\source\repos\GuessTheCountry\GuessTheCountry\obj\Debug\GuessTheCountry.IncarcareDate.resources
+C:\Users\Fineas\source\repos\GuessTheCountry\GuessTheCountry\obj\Debug\GuessTheCountry.Properties.Resources.resources
+C:\Users\Fineas\source\repos\GuessTheCountry\GuessTheCountry\obj\Debug\GuessTheCountry.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\GuessTheCountry\GuessTheCountry\obj\Debug\GuessTheCountry.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\GuessTheCountry\GuessTheCountry\obj\Debug\GuessTheCountry.exe
+C:\Users\Fineas\source\repos\GuessTheCountry\GuessTheCountry\obj\Debug\GuessTheCountry.pdb
+C:\Users\Fineas\source\repos\GuessTheCountry\GuessTheCountry\obj\Debug\GuessTheCountry.joc.resources
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\GuessTheCountry\GuessTheCountry\bin\Debug\GuessTheCountry.exe.config
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\GuessTheCountry\GuessTheCountry\bin\Debug\GuessTheCountry.exe
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\GuessTheCountry\GuessTheCountry\bin\Debug\GuessTheCountry.pdb
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\GuessTheCountry\GuessTheCountry\obj\Debug\GuessTheCountry.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\GuessTheCountry\GuessTheCountry\obj\Debug\GuessTheCountry.Form1.resources
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\GuessTheCountry\GuessTheCountry\obj\Debug\GuessTheCountry.IncarcareDate.resources
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\GuessTheCountry\GuessTheCountry\obj\Debug\GuessTheCountry.joc.resources
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\GuessTheCountry\GuessTheCountry\obj\Debug\GuessTheCountry.Properties.Resources.resources
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\GuessTheCountry\GuessTheCountry\obj\Debug\GuessTheCountry.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\GuessTheCountry\GuessTheCountry\obj\Debug\GuessTheCountry.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\GuessTheCountry\GuessTheCountry\obj\Debug\GuessTheCountry.exe
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\GuessTheCountry\GuessTheCountry\obj\Debug\GuessTheCountry.pdb

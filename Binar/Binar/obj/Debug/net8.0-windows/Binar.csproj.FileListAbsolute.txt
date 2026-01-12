@@ -1,0 +1,16 @@
+C:\Users\Fineas\source\repos\Binar\Binar\bin\Debug\net8.0-windows\Binar.exe
+C:\Users\Fineas\source\repos\Binar\Binar\bin\Debug\net8.0-windows\Binar.deps.json
+C:\Users\Fineas\source\repos\Binar\Binar\bin\Debug\net8.0-windows\Binar.runtimeconfig.json
+C:\Users\Fineas\source\repos\Binar\Binar\bin\Debug\net8.0-windows\Binar.dll
+C:\Users\Fineas\source\repos\Binar\Binar\bin\Debug\net8.0-windows\Binar.pdb
+C:\Users\Fineas\source\repos\Binar\Binar\obj\Debug\net8.0-windows\Binar.Form1.resources
+C:\Users\Fineas\source\repos\Binar\Binar\obj\Debug\net8.0-windows\Binar.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\Binar\Binar\obj\Debug\net8.0-windows\Binar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fineas\source\repos\Binar\Binar\obj\Debug\net8.0-windows\Binar.AssemblyInfoInputs.cache
+C:\Users\Fineas\source\repos\Binar\Binar\obj\Debug\net8.0-windows\Binar.AssemblyInfo.cs
+C:\Users\Fineas\source\repos\Binar\Binar\obj\Debug\net8.0-windows\Binar.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\Binar\Binar\obj\Debug\net8.0-windows\Binar.dll
+C:\Users\Fineas\source\repos\Binar\Binar\obj\Debug\net8.0-windows\refint\Binar.dll
+C:\Users\Fineas\source\repos\Binar\Binar\obj\Debug\net8.0-windows\Binar.pdb
+C:\Users\Fineas\source\repos\Binar\Binar\obj\Debug\net8.0-windows\Binar.genruntimeconfig.cache
+C:\Users\Fineas\source\repos\Binar\Binar\obj\Debug\net8.0-windows\ref\Binar.dll

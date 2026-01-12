@@ -1,0 +1,10 @@
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\08.1 - Putina miscare\08.1 - Putina miscare\bin\Debug\08.1 - Putina miscare.exe.config
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\08.1 - Putina miscare\08.1 - Putina miscare\bin\Debug\08.1 - Putina miscare.exe
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\08.1 - Putina miscare\08.1 - Putina miscare\bin\Debug\08.1 - Putina miscare.pdb
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\08.1 - Putina miscare\08.1 - Putina miscare\obj\Debug\08.1 - Putina miscare.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\08.1 - Putina miscare\08.1 - Putina miscare\obj\Debug\_08._1___Putina_miscare.Form1.resources
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\08.1 - Putina miscare\08.1 - Putina miscare\obj\Debug\_08._1___Putina_miscare.Properties.Resources.resources
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\08.1 - Putina miscare\08.1 - Putina miscare\obj\Debug\08.1 - Putina miscare.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\08.1 - Putina miscare\08.1 - Putina miscare\obj\Debug\08.1 - Putina miscare.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\08.1 - Putina miscare\08.1 - Putina miscare\obj\Debug\08.1 - Putina miscare.exe
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\08.1 - Putina miscare\08.1 - Putina miscare\obj\Debug\08.1 - Putina miscare.pdb

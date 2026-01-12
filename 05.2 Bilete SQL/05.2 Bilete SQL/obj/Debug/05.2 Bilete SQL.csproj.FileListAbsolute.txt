@@ -1,0 +1,10 @@
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\05.2 Bilete SQL\05.2 Bilete SQL\bin\Debug\05.2 Bilete SQL.exe.config
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\05.2 Bilete SQL\05.2 Bilete SQL\bin\Debug\05.2 Bilete SQL.exe
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\05.2 Bilete SQL\05.2 Bilete SQL\bin\Debug\05.2 Bilete SQL.pdb
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\05.2 Bilete SQL\05.2 Bilete SQL\obj\Debug\05.2 Bilete SQL.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\05.2 Bilete SQL\05.2 Bilete SQL\obj\Debug\_05._2_Bilete_SQL.Form1.resources
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\05.2 Bilete SQL\05.2 Bilete SQL\obj\Debug\_05._2_Bilete_SQL.Properties.Resources.resources
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\05.2 Bilete SQL\05.2 Bilete SQL\obj\Debug\05.2 Bilete SQL.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\05.2 Bilete SQL\05.2 Bilete SQL\obj\Debug\05.2 Bilete SQL.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\05.2 Bilete SQL\05.2 Bilete SQL\obj\Debug\05.2 Bilete SQL.exe
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\05.2 Bilete SQL\05.2 Bilete SQL\obj\Debug\05.2 Bilete SQL.pdb

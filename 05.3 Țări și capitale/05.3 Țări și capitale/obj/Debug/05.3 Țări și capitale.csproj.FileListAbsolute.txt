@@ -1,0 +1,10 @@
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\05.3 Țări și capitale\05.3 Țări și capitale\bin\Debug\05.3 Țări și capitale.exe.config
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\05.3 Țări și capitale\05.3 Țări și capitale\bin\Debug\05.3 Țări și capitale.exe
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\05.3 Țări și capitale\05.3 Țări și capitale\bin\Debug\05.3 Țări și capitale.pdb
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\05.3 Țări și capitale\05.3 Țări și capitale\obj\Debug\05.3 Țări și capitale.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\05.3 Țări și capitale\05.3 Țări și capitale\obj\Debug\_05._3_Țări_și_capitale.Form1.resources
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\05.3 Țări și capitale\05.3 Țări și capitale\obj\Debug\_05._3_Țări_și_capitale.Properties.Resources.resources
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\05.3 Țări și capitale\05.3 Țări și capitale\obj\Debug\05.3 Țări și capitale.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\05.3 Țări și capitale\05.3 Țări și capitale\obj\Debug\05.3 Țări și capitale.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\05.3 Țări și capitale\05.3 Țări și capitale\obj\Debug\05.3 Țări și capitale.exe
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\05.3 Țări și capitale\05.3 Țări și capitale\obj\Debug\05.3 Țări și capitale.pdb

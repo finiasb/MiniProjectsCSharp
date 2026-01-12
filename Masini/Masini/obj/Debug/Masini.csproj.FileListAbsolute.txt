@@ -1,0 +1,20 @@
+C:\Users\Fineas\source\repos\Masini\Masini\bin\Debug\Masini.exe.config
+C:\Users\Fineas\source\repos\Masini\Masini\bin\Debug\Masini.exe
+C:\Users\Fineas\source\repos\Masini\Masini\bin\Debug\Masini.pdb
+C:\Users\Fineas\source\repos\Masini\Masini\obj\Debug\Masini.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\Masini\Masini\obj\Debug\Masini.Form1.resources
+C:\Users\Fineas\source\repos\Masini\Masini\obj\Debug\Masini.Properties.Resources.resources
+C:\Users\Fineas\source\repos\Masini\Masini\obj\Debug\Masini.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\Masini\Masini\obj\Debug\Masini.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\Masini\Masini\obj\Debug\Masini.exe
+C:\Users\Fineas\source\repos\Masini\Masini\obj\Debug\Masini.pdb
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\Masini\Masini\bin\Debug\Masini.exe.config
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\Masini\Masini\bin\Debug\Masini.exe
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\Masini\Masini\bin\Debug\Masini.pdb
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\Masini\Masini\obj\Debug\Masini.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\Masini\Masini\obj\Debug\Masini.Form1.resources
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\Masini\Masini\obj\Debug\Masini.Properties.Resources.resources
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\Masini\Masini\obj\Debug\Masini.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\Masini\Masini\obj\Debug\Masini.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\Masini\Masini\obj\Debug\Masini.exe
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\Masini\Masini\obj\Debug\Masini.pdb

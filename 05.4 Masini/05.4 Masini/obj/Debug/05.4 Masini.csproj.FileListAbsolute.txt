@@ -1,0 +1,10 @@
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\05.4 Masini\05.4 Masini\bin\Debug\05.4 Masini.exe.config
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\05.4 Masini\05.4 Masini\bin\Debug\05.4 Masini.exe
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\05.4 Masini\05.4 Masini\bin\Debug\05.4 Masini.pdb
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\05.4 Masini\05.4 Masini\obj\Debug\05.4 Masini.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\05.4 Masini\05.4 Masini\obj\Debug\_05._4_Masini.Form1.resources
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\05.4 Masini\05.4 Masini\obj\Debug\_05._4_Masini.Properties.Resources.resources
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\05.4 Masini\05.4 Masini\obj\Debug\05.4 Masini.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\05.4 Masini\05.4 Masini\obj\Debug\05.4 Masini.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\05.4 Masini\05.4 Masini\obj\Debug\05.4 Masini.exe
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\05.4 Masini\05.4 Masini\obj\Debug\05.4 Masini.pdb

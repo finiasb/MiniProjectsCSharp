@@ -1,0 +1,10 @@
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\08.3 - Race\08.3 - Race\bin\Debug\08.3 - Race.exe.config
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\08.3 - Race\08.3 - Race\bin\Debug\08.3 - Race.exe
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\08.3 - Race\08.3 - Race\bin\Debug\08.3 - Race.pdb
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\08.3 - Race\08.3 - Race\obj\Debug\08.3 - Race.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\08.3 - Race\08.3 - Race\obj\Debug\_08._3___Race.Form1.resources
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\08.3 - Race\08.3 - Race\obj\Debug\_08._3___Race.Properties.Resources.resources
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\08.3 - Race\08.3 - Race\obj\Debug\08.3 - Race.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\08.3 - Race\08.3 - Race\obj\Debug\08.3 - Race.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\08.3 - Race\08.3 - Race\obj\Debug\08.3 - Race.exe
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\08.3 - Race\08.3 - Race\obj\Debug\08.3 - Race.pdb

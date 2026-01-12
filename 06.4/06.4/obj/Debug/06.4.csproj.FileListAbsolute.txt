@@ -1,0 +1,10 @@
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\06.4\06.4\obj\Debug\06.4.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\06.4\06.4\obj\Debug\_06._4.Form1.resources
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\06.4\06.4\obj\Debug\_06._4.Properties.Resources.resources
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\06.4\06.4\obj\Debug\06.4.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\06.4\06.4\obj\Debug\06.4.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\06.4\06.4\bin\Debug\06.4.exe.config
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\06.4\06.4\bin\Debug\06.4.exe
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\06.4\06.4\bin\Debug\06.4.pdb
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\06.4\06.4\obj\Debug\06.4.exe
+C:\Users\Fineas\source\repos\TEME EXCELENTA C#\06.4\06.4\obj\Debug\06.4.pdb
