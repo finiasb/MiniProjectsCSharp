@@ -1,0 +1,10 @@
+C:\Users\Fineas\source\repos\EU\09.1 RGB\09.1 RGB\bin\Debug\09.1 RGB.exe.config
+C:\Users\Fineas\source\repos\EU\09.1 RGB\09.1 RGB\bin\Debug\09.1 RGB.exe
+C:\Users\Fineas\source\repos\EU\09.1 RGB\09.1 RGB\bin\Debug\09.1 RGB.pdb
+C:\Users\Fineas\source\repos\EU\09.1 RGB\09.1 RGB\obj\Debug\09.1 RGB.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\EU\09.1 RGB\09.1 RGB\obj\Debug\_09._1_RGB.Form1.resources
+C:\Users\Fineas\source\repos\EU\09.1 RGB\09.1 RGB\obj\Debug\_09._1_RGB.Properties.Resources.resources
+C:\Users\Fineas\source\repos\EU\09.1 RGB\09.1 RGB\obj\Debug\09.1 RGB.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\EU\09.1 RGB\09.1 RGB\obj\Debug\09.1 RGB.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\EU\09.1 RGB\09.1 RGB\obj\Debug\09.1 RGB.exe
+C:\Users\Fineas\source\repos\EU\09.1 RGB\09.1 RGB\obj\Debug\09.1 RGB.pdb

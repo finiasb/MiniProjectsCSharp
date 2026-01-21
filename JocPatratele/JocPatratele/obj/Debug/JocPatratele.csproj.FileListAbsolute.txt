@@ -1,0 +1,10 @@
+C:\Users\Fineas\source\repos\EU\JocPatratele\JocPatratele\bin\Debug\JocPatratele.exe.config
+C:\Users\Fineas\source\repos\EU\JocPatratele\JocPatratele\bin\Debug\JocPatratele.exe
+C:\Users\Fineas\source\repos\EU\JocPatratele\JocPatratele\bin\Debug\JocPatratele.pdb
+C:\Users\Fineas\source\repos\EU\JocPatratele\JocPatratele\obj\Debug\JocPatratele.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\EU\JocPatratele\JocPatratele\obj\Debug\JocPatratele.Form1.resources
+C:\Users\Fineas\source\repos\EU\JocPatratele\JocPatratele\obj\Debug\JocPatratele.Properties.Resources.resources
+C:\Users\Fineas\source\repos\EU\JocPatratele\JocPatratele\obj\Debug\JocPatratele.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\EU\JocPatratele\JocPatratele\obj\Debug\JocPatratele.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\EU\JocPatratele\JocPatratele\obj\Debug\JocPatratele.exe
+C:\Users\Fineas\source\repos\EU\JocPatratele\JocPatratele\obj\Debug\JocPatratele.pdb

@@ -1,0 +1,10 @@
+C:\Users\Fineas\source\repos\EU\09.3 DataGridView1\09.3 DataGridView1\bin\Debug\09.3 DataGridView1.exe.config
+C:\Users\Fineas\source\repos\EU\09.3 DataGridView1\09.3 DataGridView1\bin\Debug\09.3 DataGridView1.exe
+C:\Users\Fineas\source\repos\EU\09.3 DataGridView1\09.3 DataGridView1\bin\Debug\09.3 DataGridView1.pdb
+C:\Users\Fineas\source\repos\EU\09.3 DataGridView1\09.3 DataGridView1\obj\Debug\09.3 DataGridView1.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\EU\09.3 DataGridView1\09.3 DataGridView1\obj\Debug\_09._3_DataGridView1.Form1.resources
+C:\Users\Fineas\source\repos\EU\09.3 DataGridView1\09.3 DataGridView1\obj\Debug\_09._3_DataGridView1.Properties.Resources.resources
+C:\Users\Fineas\source\repos\EU\09.3 DataGridView1\09.3 DataGridView1\obj\Debug\09.3 DataGridView1.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\EU\09.3 DataGridView1\09.3 DataGridView1\obj\Debug\09.3 DataGridView1.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\EU\09.3 DataGridView1\09.3 DataGridView1\obj\Debug\09.3 DataGridView1.exe
+C:\Users\Fineas\source\repos\EU\09.3 DataGridView1\09.3 DataGridView1\obj\Debug\09.3 DataGridView1.pdb
