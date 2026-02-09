@@ -1,0 +1,10 @@
+C:\Users\Fineas\source\repos\12.2 Cerere\12.2 Cerere\bin\Debug\12.2 Cerere.exe.config
+C:\Users\Fineas\source\repos\12.2 Cerere\12.2 Cerere\bin\Debug\12.2 Cerere.exe
+C:\Users\Fineas\source\repos\12.2 Cerere\12.2 Cerere\bin\Debug\12.2 Cerere.pdb
+C:\Users\Fineas\source\repos\12.2 Cerere\12.2 Cerere\obj\Debug\12.2 Cerere.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\12.2 Cerere\12.2 Cerere\obj\Debug\_12._2_Cerere.Form1.resources
+C:\Users\Fineas\source\repos\12.2 Cerere\12.2 Cerere\obj\Debug\_12._2_Cerere.Properties.Resources.resources
+C:\Users\Fineas\source\repos\12.2 Cerere\12.2 Cerere\obj\Debug\12.2 Cerere.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\12.2 Cerere\12.2 Cerere\obj\Debug\12.2 Cerere.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\12.2 Cerere\12.2 Cerere\obj\Debug\12.2 Cerere.exe
+C:\Users\Fineas\source\repos\12.2 Cerere\12.2 Cerere\obj\Debug\12.2 Cerere.pdb

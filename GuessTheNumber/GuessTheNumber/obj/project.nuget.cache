@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tXcEE32cBf/3mcEKyhcSwIJHZZguhGcm7h00Dss/qHfi1GJtHhUHuw0ensDZfJ+BHm8XmIyK920XKwt+zoVqog==",
+  "dgSpecHash": "ylSIeefz6aHmF4oItSgOqkctUZvqaX/ryLFs/6batyNRmUl8RtQCEWfqxluaytG/q4hT1GmqCZCpk6qkuyidBw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Fineas\\source\\repos\\EU\\MiniprojectsC#\\GuessTheNumber\\GuessTheNumber\\GuessTheNumber.csproj",
+  "projectFilePath": "C:\\Users\\Fineas\\source\\repos\\MiniProjectsCSharp\\GuessTheNumber\\GuessTheNumber\\GuessTheNumber.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

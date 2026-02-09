@@ -1,0 +1,20 @@
+C:\Users\Elev\source\repos\11.2 - Checker Board\11.2 - Checker Board\bin\Debug\11.2 - Checker Board.exe.config
+C:\Users\Elev\source\repos\11.2 - Checker Board\11.2 - Checker Board\bin\Debug\11.2 - Checker Board.exe
+C:\Users\Elev\source\repos\11.2 - Checker Board\11.2 - Checker Board\bin\Debug\11.2 - Checker Board.pdb
+C:\Users\Elev\source\repos\11.2 - Checker Board\11.2 - Checker Board\obj\Debug\11.2 - Checker Board.csproj.AssemblyReference.cache
+C:\Users\Elev\source\repos\11.2 - Checker Board\11.2 - Checker Board\obj\Debug\_11._2___Checker_Board.Form1.resources
+C:\Users\Elev\source\repos\11.2 - Checker Board\11.2 - Checker Board\obj\Debug\_11._2___Checker_Board.Properties.Resources.resources
+C:\Users\Elev\source\repos\11.2 - Checker Board\11.2 - Checker Board\obj\Debug\11.2 - Checker Board.csproj.GenerateResource.cache
+C:\Users\Elev\source\repos\11.2 - Checker Board\11.2 - Checker Board\obj\Debug\11.2 - Checker Board.csproj.CoreCompileInputs.cache
+C:\Users\Elev\source\repos\11.2 - Checker Board\11.2 - Checker Board\obj\Debug\11.2 - Checker Board.exe
+C:\Users\Elev\source\repos\11.2 - Checker Board\11.2 - Checker Board\obj\Debug\11.2 - Checker Board.pdb
+C:\Users\Fineas\source\repos\MiniProjectsCSharp\11.2 - Checker Board\11.2 - Checker Board\bin\Debug\11.2 - Checker Board.exe.config
+C:\Users\Fineas\source\repos\MiniProjectsCSharp\11.2 - Checker Board\11.2 - Checker Board\bin\Debug\11.2 - Checker Board.exe
+C:\Users\Fineas\source\repos\MiniProjectsCSharp\11.2 - Checker Board\11.2 - Checker Board\bin\Debug\11.2 - Checker Board.pdb
+C:\Users\Fineas\source\repos\MiniProjectsCSharp\11.2 - Checker Board\11.2 - Checker Board\obj\Debug\11.2 - Checker Board.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\MiniProjectsCSharp\11.2 - Checker Board\11.2 - Checker Board\obj\Debug\_11._2___Checker_Board.Form1.resources
+C:\Users\Fineas\source\repos\MiniProjectsCSharp\11.2 - Checker Board\11.2 - Checker Board\obj\Debug\_11._2___Checker_Board.Properties.Resources.resources
+C:\Users\Fineas\source\repos\MiniProjectsCSharp\11.2 - Checker Board\11.2 - Checker Board\obj\Debug\11.2 - Checker Board.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\MiniProjectsCSharp\11.2 - Checker Board\11.2 - Checker Board\obj\Debug\11.2 - Checker Board.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\MiniProjectsCSharp\11.2 - Checker Board\11.2 - Checker Board\obj\Debug\11.2 - Checker Board.exe
+C:\Users\Fineas\source\repos\MiniProjectsCSharp\11.2 - Checker Board\11.2 - Checker Board\obj\Debug\11.2 - Checker Board.pdb

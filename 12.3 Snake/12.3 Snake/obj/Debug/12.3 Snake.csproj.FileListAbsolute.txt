@@ -1,0 +1,10 @@
+C:\Users\Fineas\source\repos\12.3 Snake\12.3 Snake\bin\Debug\12.3 Snake.exe.config
+C:\Users\Fineas\source\repos\12.3 Snake\12.3 Snake\bin\Debug\12.3 Snake.exe
+C:\Users\Fineas\source\repos\12.3 Snake\12.3 Snake\bin\Debug\12.3 Snake.pdb
+C:\Users\Fineas\source\repos\12.3 Snake\12.3 Snake\obj\Debug\12.3 Snake.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\12.3 Snake\12.3 Snake\obj\Debug\_12._3_Snake.Form1.resources
+C:\Users\Fineas\source\repos\12.3 Snake\12.3 Snake\obj\Debug\_12._3_Snake.Properties.Resources.resources
+C:\Users\Fineas\source\repos\12.3 Snake\12.3 Snake\obj\Debug\12.3 Snake.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\12.3 Snake\12.3 Snake\obj\Debug\12.3 Snake.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\12.3 Snake\12.3 Snake\obj\Debug\12.3 Snake.exe
+C:\Users\Fineas\source\repos\12.3 Snake\12.3 Snake\obj\Debug\12.3 Snake.pdb

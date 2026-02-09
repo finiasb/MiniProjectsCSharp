@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fineas\\source\\repos\\EU\\MiniprojectsC#\\Up and down\\Up and down\\Up and down.csproj": {}
+    "C:\\Users\\Fineas\\source\\repos\\MiniProjectsCSharp\\Up and down\\Up and down\\Up and down.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fineas\\source\\repos\\EU\\MiniprojectsC#\\Up and down\\Up and down\\Up and down.csproj": {
+    "C:\\Users\\Fineas\\source\\repos\\MiniProjectsCSharp\\Up and down\\Up and down\\Up and down.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fineas\\source\\repos\\EU\\MiniprojectsC#\\Up and down\\Up and down\\Up and down.csproj",
+        "projectUniqueName": "C:\\Users\\Fineas\\source\\repos\\MiniProjectsCSharp\\Up and down\\Up and down\\Up and down.csproj",
         "projectName": "Up and down",
-        "projectPath": "C:\\Users\\Fineas\\source\\repos\\EU\\MiniprojectsC#\\Up and down\\Up and down\\Up and down.csproj",
+        "projectPath": "C:\\Users\\Fineas\\source\\repos\\MiniProjectsCSharp\\Up and down\\Up and down\\Up and down.csproj",
         "packagesPath": "C:\\Users\\Fineas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fineas\\source\\repos\\EU\\MiniprojectsC#\\Up and down\\Up and down\\obj\\",
+        "outputPath": "C:\\Users\\Fineas\\source\\repos\\MiniProjectsCSharp\\Up and down\\Up and down\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

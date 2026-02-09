@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fineas\\source\\repos\\EU\\MiniprojectsC#\\FormeMultiple\\FormeMultiple\\FormeMultiple.csproj",
+      "projectUniqueName": "C:\\Users\\Fineas\\source\\repos\\MiniProjectsCSharp\\FormeMultiple\\FormeMultiple\\FormeMultiple.csproj",
       "projectName": "FormeMultiple",
-      "projectPath": "C:\\Users\\Fineas\\source\\repos\\EU\\MiniprojectsC#\\FormeMultiple\\FormeMultiple\\FormeMultiple.csproj",
+      "projectPath": "C:\\Users\\Fineas\\source\\repos\\MiniProjectsCSharp\\FormeMultiple\\FormeMultiple\\FormeMultiple.csproj",
       "packagesPath": "C:\\Users\\Fineas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fineas\\source\\repos\\EU\\MiniprojectsC#\\FormeMultiple\\FormeMultiple\\obj\\",
+      "outputPath": "C:\\Users\\Fineas\\source\\repos\\MiniProjectsCSharp\\FormeMultiple\\FormeMultiple\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

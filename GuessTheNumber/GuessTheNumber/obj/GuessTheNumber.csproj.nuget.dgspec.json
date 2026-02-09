@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fineas\\source\\repos\\EU\\MiniprojectsC#\\GuessTheNumber\\GuessTheNumber\\GuessTheNumber.csproj": {}
+    "C:\\Users\\Fineas\\source\\repos\\MiniProjectsCSharp\\GuessTheNumber\\GuessTheNumber\\GuessTheNumber.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fineas\\source\\repos\\EU\\MiniprojectsC#\\GuessTheNumber\\GuessTheNumber\\GuessTheNumber.csproj": {
+    "C:\\Users\\Fineas\\source\\repos\\MiniProjectsCSharp\\GuessTheNumber\\GuessTheNumber\\GuessTheNumber.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fineas\\source\\repos\\EU\\MiniprojectsC#\\GuessTheNumber\\GuessTheNumber\\GuessTheNumber.csproj",
+        "projectUniqueName": "C:\\Users\\Fineas\\source\\repos\\MiniProjectsCSharp\\GuessTheNumber\\GuessTheNumber\\GuessTheNumber.csproj",
         "projectName": "GuessTheNumber",
-        "projectPath": "C:\\Users\\Fineas\\source\\repos\\EU\\MiniprojectsC#\\GuessTheNumber\\GuessTheNumber\\GuessTheNumber.csproj",
+        "projectPath": "C:\\Users\\Fineas\\source\\repos\\MiniProjectsCSharp\\GuessTheNumber\\GuessTheNumber\\GuessTheNumber.csproj",
         "packagesPath": "C:\\Users\\Fineas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fineas\\source\\repos\\EU\\MiniprojectsC#\\GuessTheNumber\\GuessTheNumber\\obj\\",
+        "outputPath": "C:\\Users\\Fineas\\source\\repos\\MiniProjectsCSharp\\GuessTheNumber\\GuessTheNumber\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

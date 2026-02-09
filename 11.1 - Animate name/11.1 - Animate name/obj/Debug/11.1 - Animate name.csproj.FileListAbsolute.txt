@@ -1,0 +1,10 @@
+C:\Users\Fineas\source\repos\11.1 - Animate name\11.1 - Animate name\bin\Debug\11.1 - Animate name.exe.config
+C:\Users\Fineas\source\repos\11.1 - Animate name\11.1 - Animate name\bin\Debug\11.1 - Animate name.exe
+C:\Users\Fineas\source\repos\11.1 - Animate name\11.1 - Animate name\bin\Debug\11.1 - Animate name.pdb
+C:\Users\Fineas\source\repos\11.1 - Animate name\11.1 - Animate name\obj\Debug\11.1 - Animate name.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\11.1 - Animate name\11.1 - Animate name\obj\Debug\_11._1___Animate_name.Form1.resources
+C:\Users\Fineas\source\repos\11.1 - Animate name\11.1 - Animate name\obj\Debug\_11._1___Animate_name.Properties.Resources.resources
+C:\Users\Fineas\source\repos\11.1 - Animate name\11.1 - Animate name\obj\Debug\11.1 - Animate name.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\11.1 - Animate name\11.1 - Animate name\obj\Debug\11.1 - Animate name.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\11.1 - Animate name\11.1 - Animate name\obj\Debug\11.1 - Animate name.exe
+C:\Users\Fineas\source\repos\11.1 - Animate name\11.1 - Animate name\obj\Debug\11.1 - Animate name.pdb
