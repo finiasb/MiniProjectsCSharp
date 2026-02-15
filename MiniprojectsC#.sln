@@ -73,6 +73,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.2 Football", "13.2 Footb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.3 Penalty Game", "13.3 Penalty Game\13.3 Penalty Game\13.3 Penalty Game.csproj", "{F0D79233-69DC-445C-9C25-AE82CF88D627}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.1 - Hangman", "10.1 - Hangman\10.1 - Hangman\10.1 - Hangman.csproj", "{3E2DAAF0-A298-4408-9D4F-1147FB84C34E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.2 Charts", "10.2 Charts\10.2 Charts\10.2 Charts.csproj", "{E12F6587-7864-4C14-BBDF-E650481770F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -219,6 +223,14 @@ Global
 		{F0D79233-69DC-445C-9C25-AE82CF88D627}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0D79233-69DC-445C-9C25-AE82CF88D627}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F0D79233-69DC-445C-9C25-AE82CF88D627}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E2DAAF0-A298-4408-9D4F-1147FB84C34E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E2DAAF0-A298-4408-9D4F-1147FB84C34E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E2DAAF0-A298-4408-9D4F-1147FB84C34E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E2DAAF0-A298-4408-9D4F-1147FB84C34E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E12F6587-7864-4C14-BBDF-E650481770F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E12F6587-7864-4C14-BBDF-E650481770F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E12F6587-7864-4C14-BBDF-E650481770F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E12F6587-7864-4C14-BBDF-E650481770F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

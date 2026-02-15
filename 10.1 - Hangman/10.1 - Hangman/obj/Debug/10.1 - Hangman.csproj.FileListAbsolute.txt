@@ -1,0 +1,11 @@
+C:\Users\Fineas\source\repos\EU\10.1 - Hangman\10.1 - Hangman\bin\Debug\10.1 - Hangman.exe.config
+C:\Users\Fineas\source\repos\EU\10.1 - Hangman\10.1 - Hangman\bin\Debug\10.1 - Hangman.exe
+C:\Users\Fineas\source\repos\EU\10.1 - Hangman\10.1 - Hangman\bin\Debug\10.1 - Hangman.pdb
+C:\Users\Fineas\source\repos\EU\10.1 - Hangman\10.1 - Hangman\obj\Debug\10.1 - Hangman.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\EU\10.1 - Hangman\10.1 - Hangman\obj\Debug\_10._1___Hangman.Form1.resources
+C:\Users\Fineas\source\repos\EU\10.1 - Hangman\10.1 - Hangman\obj\Debug\_10._1___Hangman.Properties.Resources.resources
+C:\Users\Fineas\source\repos\EU\10.1 - Hangman\10.1 - Hangman\obj\Debug\10.1 - Hangman.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\EU\10.1 - Hangman\10.1 - Hangman\obj\Debug\10.1 - Hangman.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\EU\10.1 - Hangman\10.1 - Hangman\obj\Debug\10.1 - Hangman.exe
+C:\Users\Fineas\source\repos\EU\10.1 - Hangman\10.1 - Hangman\obj\Debug\10.1 - Hangman.pdb
+C:\Users\Fineas\source\repos\EU\10.1 - Hangman\10.1 - Hangman\obj\Debug\_10._1___Hangman.hangman.resources

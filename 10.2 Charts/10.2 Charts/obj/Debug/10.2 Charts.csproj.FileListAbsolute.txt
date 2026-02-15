@@ -1,0 +1,13 @@
+C:\Users\Fineas\source\repos\EU\10.2 Charts\10.2 Charts\bin\Debug\10.2 Charts.exe.config
+C:\Users\Fineas\source\repos\EU\10.2 Charts\10.2 Charts\bin\Debug\10.2 Charts.exe
+C:\Users\Fineas\source\repos\EU\10.2 Charts\10.2 Charts\bin\Debug\10.2 Charts.pdb
+C:\Users\Fineas\source\repos\EU\10.2 Charts\10.2 Charts\obj\Debug\10.2 Charts.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\EU\10.2 Charts\10.2 Charts\obj\Debug\_10._2_Charts.Form1.resources
+C:\Users\Fineas\source\repos\EU\10.2 Charts\10.2 Charts\obj\Debug\_10._2_Charts.Properties.Resources.resources
+C:\Users\Fineas\source\repos\EU\10.2 Charts\10.2 Charts\obj\Debug\10.2 Charts.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\EU\10.2 Charts\10.2 Charts\obj\Debug\10.2 Charts.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\EU\10.2 Charts\10.2 Charts\obj\Debug\10.2 Charts.exe
+C:\Users\Fineas\source\repos\EU\10.2 Charts\10.2 Charts\obj\Debug\10.2 Charts.pdb
+C:\Users\Fineas\source\repos\EU\10.2 Charts\10.2 Charts\obj\Debug\_10._2_Charts.General.resources
+C:\Users\Fineas\source\repos\EU\10.2 Charts\10.2 Charts\obj\Debug\_10._2_Charts.Materii.resources
+C:\Users\Fineas\source\repos\EU\10.2 Charts\10.2 Charts\obj\Debug\_10._2_Charts.adauga.resources
