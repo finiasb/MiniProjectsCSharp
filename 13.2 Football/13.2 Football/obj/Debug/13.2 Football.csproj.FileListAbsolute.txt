@@ -1,0 +1,10 @@
+C:\Users\Fineas\source\repos\13.2 Football\13.2 Football\bin\Debug\13.2 Football.exe.config
+C:\Users\Fineas\source\repos\13.2 Football\13.2 Football\bin\Debug\13.2 Football.exe
+C:\Users\Fineas\source\repos\13.2 Football\13.2 Football\bin\Debug\13.2 Football.pdb
+C:\Users\Fineas\source\repos\13.2 Football\13.2 Football\obj\Debug\13.2 Football.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\13.2 Football\13.2 Football\obj\Debug\_13._2_Football.Form1.resources
+C:\Users\Fineas\source\repos\13.2 Football\13.2 Football\obj\Debug\_13._2_Football.Properties.Resources.resources
+C:\Users\Fineas\source\repos\13.2 Football\13.2 Football\obj\Debug\13.2 Football.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\13.2 Football\13.2 Football\obj\Debug\13.2 Football.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\13.2 Football\13.2 Football\obj\Debug\13.2 Football.exe
+C:\Users\Fineas\source\repos\13.2 Football\13.2 Football\obj\Debug\13.2 Football.pdb

@@ -1,0 +1,10 @@
+C:\Users\Fineas\source\repos\13.1 Print preview\13.1 Print preview\bin\Debug\13.1 Print preview.exe.config
+C:\Users\Fineas\source\repos\13.1 Print preview\13.1 Print preview\bin\Debug\13.1 Print preview.exe
+C:\Users\Fineas\source\repos\13.1 Print preview\13.1 Print preview\bin\Debug\13.1 Print preview.pdb
+C:\Users\Fineas\source\repos\13.1 Print preview\13.1 Print preview\obj\Debug\13.1 Print preview.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\13.1 Print preview\13.1 Print preview\obj\Debug\_13._1_Print_preview.Form1.resources
+C:\Users\Fineas\source\repos\13.1 Print preview\13.1 Print preview\obj\Debug\_13._1_Print_preview.Properties.Resources.resources
+C:\Users\Fineas\source\repos\13.1 Print preview\13.1 Print preview\obj\Debug\13.1 Print preview.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\13.1 Print preview\13.1 Print preview\obj\Debug\13.1 Print preview.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\13.1 Print preview\13.1 Print preview\obj\Debug\13.1 Print preview.exe
+C:\Users\Fineas\source\repos\13.1 Print preview\13.1 Print preview\obj\Debug\13.1 Print preview.pdb

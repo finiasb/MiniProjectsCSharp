@@ -1,0 +1,10 @@
+C:\Users\Fineas\source\repos\13.3 Penalty Game\13.3 Penalty Game\bin\Debug\13.3 Penalty Game.exe.config
+C:\Users\Fineas\source\repos\13.3 Penalty Game\13.3 Penalty Game\bin\Debug\13.3 Penalty Game.exe
+C:\Users\Fineas\source\repos\13.3 Penalty Game\13.3 Penalty Game\bin\Debug\13.3 Penalty Game.pdb
+C:\Users\Fineas\source\repos\13.3 Penalty Game\13.3 Penalty Game\obj\Debug\13.3 Penalty Game.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\13.3 Penalty Game\13.3 Penalty Game\obj\Debug\_13._3_Penalty_Game.Form1.resources
+C:\Users\Fineas\source\repos\13.3 Penalty Game\13.3 Penalty Game\obj\Debug\_13._3_Penalty_Game.Properties.Resources.resources
+C:\Users\Fineas\source\repos\13.3 Penalty Game\13.3 Penalty Game\obj\Debug\13.3 Penalty Game.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\13.3 Penalty Game\13.3 Penalty Game\obj\Debug\13.3 Penalty Game.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\13.3 Penalty Game\13.3 Penalty Game\obj\Debug\13.3 Penalty Game.exe
+C:\Users\Fineas\source\repos\13.3 Penalty Game\13.3 Penalty Game\obj\Debug\13.3 Penalty Game.pdb

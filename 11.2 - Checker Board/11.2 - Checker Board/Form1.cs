@@ -111,6 +111,13 @@ namespace _11._2___Checker_Board
                 label3.Text = "Coloana: " + y;
             }
         }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+            pictureBox2.BackColor = System.Drawing.Color.FromArgb(18, 22, 29);
+
+        }
+
         private void drawBallDown()
         {
             
