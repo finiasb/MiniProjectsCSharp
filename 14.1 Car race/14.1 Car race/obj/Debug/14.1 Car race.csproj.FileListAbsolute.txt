@@ -1,0 +1,20 @@
+C:\Users\Elev\source\repos\14.1 Car race\14.1 Car race\bin\Debug\14.1 Car race.exe.config
+C:\Users\Elev\source\repos\14.1 Car race\14.1 Car race\bin\Debug\14.1 Car race.exe
+C:\Users\Elev\source\repos\14.1 Car race\14.1 Car race\bin\Debug\14.1 Car race.pdb
+C:\Users\Elev\source\repos\14.1 Car race\14.1 Car race\obj\Debug\14.1 Car race.csproj.AssemblyReference.cache
+C:\Users\Elev\source\repos\14.1 Car race\14.1 Car race\obj\Debug\_14._1_Car_race.Form1.resources
+C:\Users\Elev\source\repos\14.1 Car race\14.1 Car race\obj\Debug\_14._1_Car_race.Properties.Resources.resources
+C:\Users\Elev\source\repos\14.1 Car race\14.1 Car race\obj\Debug\14.1 Car race.csproj.GenerateResource.cache
+C:\Users\Elev\source\repos\14.1 Car race\14.1 Car race\obj\Debug\14.1 Car race.csproj.CoreCompileInputs.cache
+C:\Users\Elev\source\repos\14.1 Car race\14.1 Car race\obj\Debug\14.1 Car race.exe
+C:\Users\Elev\source\repos\14.1 Car race\14.1 Car race\obj\Debug\14.1 Car race.pdb
+C:\Users\Fineas\source\repos\14.1 Car race\14.1 Car race\bin\Debug\14.1 Car race.exe.config
+C:\Users\Fineas\source\repos\14.1 Car race\14.1 Car race\bin\Debug\14.1 Car race.exe
+C:\Users\Fineas\source\repos\14.1 Car race\14.1 Car race\bin\Debug\14.1 Car race.pdb
+C:\Users\Fineas\source\repos\14.1 Car race\14.1 Car race\obj\Debug\14.1 Car race.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\14.1 Car race\14.1 Car race\obj\Debug\_14._1_Car_race.Form1.resources
+C:\Users\Fineas\source\repos\14.1 Car race\14.1 Car race\obj\Debug\_14._1_Car_race.Properties.Resources.resources
+C:\Users\Fineas\source\repos\14.1 Car race\14.1 Car race\obj\Debug\14.1 Car race.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\14.1 Car race\14.1 Car race\obj\Debug\14.1 Car race.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\14.1 Car race\14.1 Car race\obj\Debug\14.1 Car race.exe
+C:\Users\Fineas\source\repos\14.1 Car race\14.1 Car race\obj\Debug\14.1 Car race.pdb

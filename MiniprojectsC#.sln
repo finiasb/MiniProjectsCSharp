@@ -77,6 +77,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.1 - Hangman", "10.1 - Ha
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.2 Charts", "10.2 Charts\10.2 Charts\10.2 Charts.csproj", "{E12F6587-7864-4C14-BBDF-E650481770F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.1 Car race", "14.1 Car race\14.1 Car race\14.1 Car race.csproj", "{7DB33BFE-343A-4FF4-8352-E9BED378400B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.2 T-rex", "14.2 T-rex\14.2 T-rex\14.2 T-rex.csproj", "{95DF4975-7EF2-4862-8C61-3651B0B839BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -231,6 +235,14 @@ Global
 		{E12F6587-7864-4C14-BBDF-E650481770F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E12F6587-7864-4C14-BBDF-E650481770F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E12F6587-7864-4C14-BBDF-E650481770F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DB33BFE-343A-4FF4-8352-E9BED378400B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DB33BFE-343A-4FF4-8352-E9BED378400B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DB33BFE-343A-4FF4-8352-E9BED378400B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DB33BFE-343A-4FF4-8352-E9BED378400B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95DF4975-7EF2-4862-8C61-3651B0B839BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95DF4975-7EF2-4862-8C61-3651B0B839BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95DF4975-7EF2-4862-8C61-3651B0B839BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95DF4975-7EF2-4862-8C61-3651B0B839BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

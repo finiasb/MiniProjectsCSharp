@@ -1,0 +1,10 @@
+C:\Users\Fineas\source\repos\14.2 T-rex\14.2 T-rex\bin\Debug\14.2 T-rex.exe.config
+C:\Users\Fineas\source\repos\14.2 T-rex\14.2 T-rex\bin\Debug\14.2 T-rex.exe
+C:\Users\Fineas\source\repos\14.2 T-rex\14.2 T-rex\bin\Debug\14.2 T-rex.pdb
+C:\Users\Fineas\source\repos\14.2 T-rex\14.2 T-rex\obj\Debug\14.2 T-rex.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\14.2 T-rex\14.2 T-rex\obj\Debug\_14._2_T_rex.Form1.resources
+C:\Users\Fineas\source\repos\14.2 T-rex\14.2 T-rex\obj\Debug\_14._2_T_rex.Properties.Resources.resources
+C:\Users\Fineas\source\repos\14.2 T-rex\14.2 T-rex\obj\Debug\14.2 T-rex.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\14.2 T-rex\14.2 T-rex\obj\Debug\14.2 T-rex.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\14.2 T-rex\14.2 T-rex\obj\Debug\14.2 T-rex.exe
+C:\Users\Fineas\source\repos\14.2 T-rex\14.2 T-rex\obj\Debug\14.2 T-rex.pdb
