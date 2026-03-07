@@ -1,0 +1,10 @@
+C:\Users\Elev\source\repos\16.2 - Drag and drop 2\16.2 - Drag and drop 2\bin\Debug\16.2 - Drag and drop 2.exe.config
+C:\Users\Elev\source\repos\16.2 - Drag and drop 2\16.2 - Drag and drop 2\bin\Debug\16.2 - Drag and drop 2.exe
+C:\Users\Elev\source\repos\16.2 - Drag and drop 2\16.2 - Drag and drop 2\bin\Debug\16.2 - Drag and drop 2.pdb
+C:\Users\Elev\source\repos\16.2 - Drag and drop 2\16.2 - Drag and drop 2\obj\Debug\16.2 - Drag and drop 2.csproj.AssemblyReference.cache
+C:\Users\Elev\source\repos\16.2 - Drag and drop 2\16.2 - Drag and drop 2\obj\Debug\_16._2___Drag_and_drop_2.Properties.Resources.resources
+C:\Users\Elev\source\repos\16.2 - Drag and drop 2\16.2 - Drag and drop 2\obj\Debug\16.2 - Drag and drop 2.csproj.GenerateResource.cache
+C:\Users\Elev\source\repos\16.2 - Drag and drop 2\16.2 - Drag and drop 2\obj\Debug\16.2 - Drag and drop 2.csproj.CoreCompileInputs.cache
+C:\Users\Elev\source\repos\16.2 - Drag and drop 2\16.2 - Drag and drop 2\obj\Debug\16.2 - Drag and drop 2.exe
+C:\Users\Elev\source\repos\16.2 - Drag and drop 2\16.2 - Drag and drop 2\obj\Debug\16.2 - Drag and drop 2.pdb
+C:\Users\Elev\source\repos\16.2 - Drag and drop 2\16.2 - Drag and drop 2\obj\Debug\_16._2___Drag_and_drop_2.DragAndDrop.resources

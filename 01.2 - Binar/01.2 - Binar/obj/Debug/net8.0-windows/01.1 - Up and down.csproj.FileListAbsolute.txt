@@ -1,0 +1,17 @@
+C:\Users\Fineas\source\repos\MiniProjectsCSharp\01.1 - Up and down\01.1 - Up and down\bin\Debug\net8.0-windows\01.1 - Up and down.exe
+C:\Users\Fineas\source\repos\MiniProjectsCSharp\01.1 - Up and down\01.1 - Up and down\bin\Debug\net8.0-windows\01.1 - Up and down.deps.json
+C:\Users\Fineas\source\repos\MiniProjectsCSharp\01.1 - Up and down\01.1 - Up and down\bin\Debug\net8.0-windows\01.1 - Up and down.runtimeconfig.json
+C:\Users\Fineas\source\repos\MiniProjectsCSharp\01.1 - Up and down\01.1 - Up and down\bin\Debug\net8.0-windows\01.1 - Up and down.dll
+C:\Users\Fineas\source\repos\MiniProjectsCSharp\01.1 - Up and down\01.1 - Up and down\bin\Debug\net8.0-windows\01.1 - Up and down.pdb
+C:\Users\Fineas\source\repos\MiniProjectsCSharp\01.1 - Up and down\01.1 - Up and down\obj\Debug\net8.0-windows\Binar.Form1.resources
+C:\Users\Fineas\source\repos\MiniProjectsCSharp\01.1 - Up and down\01.1 - Up and down\obj\Debug\net8.0-windows\01.1 - Up and down.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\MiniProjectsCSharp\01.1 - Up and down\01.1 - Up and down\obj\Debug\net8.0-windows\01.1 - Up and down.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fineas\source\repos\MiniProjectsCSharp\01.1 - Up and down\01.1 - Up and down\obj\Debug\net8.0-windows\01.1 - Up and down.AssemblyInfoInputs.cache
+C:\Users\Fineas\source\repos\MiniProjectsCSharp\01.1 - Up and down\01.1 - Up and down\obj\Debug\net8.0-windows\01.1 - Up and down.AssemblyInfo.cs
+C:\Users\Fineas\source\repos\MiniProjectsCSharp\01.1 - Up and down\01.1 - Up and down\obj\Debug\net8.0-windows\01.1 - Up and down.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\MiniProjectsCSharp\01.1 - Up and down\01.1 - Up and down\obj\Debug\net8.0-windows\01.1 - Up and down.sourcelink.json
+C:\Users\Fineas\source\repos\MiniProjectsCSharp\01.1 - Up and down\01.1 - Up and down\obj\Debug\net8.0-windows\01.1 - Up and down.dll
+C:\Users\Fineas\source\repos\MiniProjectsCSharp\01.1 - Up and down\01.1 - Up and down\obj\Debug\net8.0-windows\refint\01.1 - Up and down.dll
+C:\Users\Fineas\source\repos\MiniProjectsCSharp\01.1 - Up and down\01.1 - Up and down\obj\Debug\net8.0-windows\01.1 - Up and down.pdb
+C:\Users\Fineas\source\repos\MiniProjectsCSharp\01.1 - Up and down\01.1 - Up and down\obj\Debug\net8.0-windows\01.1 - Up and down.genruntimeconfig.cache
+C:\Users\Fineas\source\repos\MiniProjectsCSharp\01.1 - Up and down\01.1 - Up and down\obj\Debug\net8.0-windows\ref\01.1 - Up and down.dll

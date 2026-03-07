@@ -41,43 +41,11 @@ namespace _14._1_Car_race
             {
                 pictureBox2.Top = pictureBox1.Top - pictureBox2.Height;
             }
-            if (pictureBox4.Top > 500)
+            if(pictureBox4.Top > 500)
             {
                 pictureBox4.Top = -50;
                 pictureBox4.Left = x1;
-                int x = rnd.Next(1, 9);
-                switch (x)
-                {
-                    case 1:
-                        pictureBox5.Image = Image.FromFile(path + "carGreen.png");
-                        break;
-                    case 2:
-                        pictureBox5.Image = Image.FromFile(path + "carGrey.png");
-                        break;
-                    case 3:
-                        pictureBox5.Image = Image.FromFile(path + "carOrange.png");
-                        break;
-                    case 4:
-                        pictureBox5.Image = Image.FromFile(path + "carPink.png");
-                        break;
-                    case 5:
-                        pictureBox5.Image = Image.FromFile(path + "carRed.png");
-                        break;
-                    case 6:
-                        pictureBox5.Image = Image.FromFile(path + "carYellow.png");
-                        break;
-                    case 7:
-                        pictureBox5.Image = Image.FromFile(path + "TruckBlue.png");
-                        break;
-                    case 8:
-                        pictureBox5.Image = Image.FromFile(path + "TruckWhite.png");
-                        break;
-                }
-            }
-            if (pictureBox5.Top > 500)
-            {
-                pictureBox5.Top = -50;
-                pictureBox5.Left = x2;
+
                 int x = rnd.Next(1, 9);
                 switch (x)
                 {
@@ -104,6 +72,39 @@ namespace _14._1_Car_race
                         break;
                     case 8:
                         pictureBox4.Image = Image.FromFile(path + "TruckWhite.png");
+                        break;
+                }
+            }
+            if (pictureBox5.Top > 500)
+            {
+                pictureBox5.Top = -50;
+                pictureBox5.Left = x2;
+                int x = rnd.Next(1, 9);
+                switch (x)
+                {
+                    case 1:
+                        pictureBox5.Image = Image.FromFile(path + "carGreen.png");
+                        break;
+                    case 2:
+                        pictureBox5.Image = Image.FromFile(path + "carGrey.png");
+                        break;
+                    case 3:
+                        pictureBox5.Image = Image.FromFile(path + "carOrange.png");
+                        break;
+                    case 4:
+                        pictureBox5.Image = Image.FromFile(path + "carPink.png");
+                        break;
+                    case 5:
+                        pictureBox5.Image = Image.FromFile(path + "carRed.png");
+                        break;
+                    case 6:
+                        pictureBox5.Image = Image.FromFile(path + "carYellow.png");
+                        break;
+                    case 7:
+                        pictureBox5.Image = Image.FromFile(path + "TruckBlue.png");
+                        break;
+                    case 8:
+                        pictureBox5.Image = Image.FromFile(path + "TruckWhite.png");
                         break;
                 }
                 
@@ -153,6 +154,12 @@ namespace _14._1_Car_race
             {
                 pictureBox3.Left += 30;
             }
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            pictureBox1.Top = 0;
+            pictureBox2.Top = -pictureBox1.Height;
         }
     }
 }

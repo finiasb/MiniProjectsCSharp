@@ -1,0 +1,10 @@
+C:\Users\Fineas\source\repos\Fibonaci\Fibonaci\bin\Debug\Fibonaci.exe.config
+C:\Users\Fineas\source\repos\Fibonaci\Fibonaci\bin\Debug\Fibonaci.exe
+C:\Users\Fineas\source\repos\Fibonaci\Fibonaci\bin\Debug\Fibonaci.pdb
+C:\Users\Fineas\source\repos\Fibonaci\Fibonaci\obj\Debug\Fibonaci.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\Fibonaci\Fibonaci\obj\Debug\Fibonaci.Properties.Resources.resources
+C:\Users\Fineas\source\repos\Fibonaci\Fibonaci\obj\Debug\Fibonaci.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\Fibonaci\Fibonaci\obj\Debug\Fibonaci.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\Fibonaci\Fibonaci\obj\Debug\Fibonaci.exe
+C:\Users\Fineas\source\repos\Fibonaci\Fibonaci\obj\Debug\Fibonaci.pdb
+C:\Users\Fineas\source\repos\Fibonaci\Fibonaci\obj\Debug\Fibonaci.Form1.resources

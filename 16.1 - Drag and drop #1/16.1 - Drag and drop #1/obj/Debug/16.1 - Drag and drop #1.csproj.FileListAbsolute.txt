@@ -1,0 +1,10 @@
+C:\Users\Fineas\source\repos\16.1 - Drag and drop #1\16.1 - Drag and drop #1\bin\Debug\16.1 - Drag and drop #1.exe.config
+C:\Users\Fineas\source\repos\16.1 - Drag and drop #1\16.1 - Drag and drop #1\bin\Debug\16.1 - Drag and drop #1.exe
+C:\Users\Fineas\source\repos\16.1 - Drag and drop #1\16.1 - Drag and drop #1\bin\Debug\16.1 - Drag and drop #1.pdb
+C:\Users\Fineas\source\repos\16.1 - Drag and drop #1\16.1 - Drag and drop #1\obj\Debug\16.1 - Drag and drop #1.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\16.1 - Drag and drop #1\16.1 - Drag and drop #1\obj\Debug\_16._1___Drag_and_drop__1.Properties.Resources.resources
+C:\Users\Fineas\source\repos\16.1 - Drag and drop #1\16.1 - Drag and drop #1\obj\Debug\16.1 - Drag and drop #1.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\16.1 - Drag and drop #1\16.1 - Drag and drop #1\obj\Debug\16.1 - Drag and drop #1.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\16.1 - Drag and drop #1\16.1 - Drag and drop #1\obj\Debug\16.1 - Drag and drop #1.exe
+C:\Users\Fineas\source\repos\16.1 - Drag and drop #1\16.1 - Drag and drop #1\obj\Debug\16.1 - Drag and drop #1.pdb
+C:\Users\Fineas\source\repos\16.1 - Drag and drop #1\16.1 - Drag and drop #1\obj\Debug\_16._1___Drag_and_drop__1.Form1.resources

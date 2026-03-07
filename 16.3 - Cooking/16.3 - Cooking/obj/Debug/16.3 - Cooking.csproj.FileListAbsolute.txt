@@ -1,0 +1,10 @@
+C:\Users\Elev\source\repos\16.3 - Cooking\16.3 - Cooking\bin\Debug\16.3 - Cooking.exe.config
+C:\Users\Elev\source\repos\16.3 - Cooking\16.3 - Cooking\bin\Debug\16.3 - Cooking.exe
+C:\Users\Elev\source\repos\16.3 - Cooking\16.3 - Cooking\bin\Debug\16.3 - Cooking.pdb
+C:\Users\Elev\source\repos\16.3 - Cooking\16.3 - Cooking\obj\Debug\16.3 - Cooking.csproj.AssemblyReference.cache
+C:\Users\Elev\source\repos\16.3 - Cooking\16.3 - Cooking\obj\Debug\_16._3___Cooking.Form1.resources
+C:\Users\Elev\source\repos\16.3 - Cooking\16.3 - Cooking\obj\Debug\_16._3___Cooking.Properties.Resources.resources
+C:\Users\Elev\source\repos\16.3 - Cooking\16.3 - Cooking\obj\Debug\16.3 - Cooking.csproj.GenerateResource.cache
+C:\Users\Elev\source\repos\16.3 - Cooking\16.3 - Cooking\obj\Debug\16.3 - Cooking.csproj.CoreCompileInputs.cache
+C:\Users\Elev\source\repos\16.3 - Cooking\16.3 - Cooking\obj\Debug\16.3 - Cooking.exe
+C:\Users\Elev\source\repos\16.3 - Cooking\16.3 - Cooking\obj\Debug\16.3 - Cooking.pdb
