@@ -1,0 +1,10 @@
+C:\Users\Fineas\source\repos\PoligonRegulat\PoligonRegulat\bin\Debug\PoligonRegulat.exe.config
+C:\Users\Fineas\source\repos\PoligonRegulat\PoligonRegulat\bin\Debug\PoligonRegulat.exe
+C:\Users\Fineas\source\repos\PoligonRegulat\PoligonRegulat\bin\Debug\PoligonRegulat.pdb
+C:\Users\Fineas\source\repos\PoligonRegulat\PoligonRegulat\obj\Debug\PoligonRegulat.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\PoligonRegulat\PoligonRegulat\obj\Debug\PoligonRegulat.Form1.resources
+C:\Users\Fineas\source\repos\PoligonRegulat\PoligonRegulat\obj\Debug\PoligonRegulat.Properties.Resources.resources
+C:\Users\Fineas\source\repos\PoligonRegulat\PoligonRegulat\obj\Debug\PoligonRegulat.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\PoligonRegulat\PoligonRegulat\obj\Debug\PoligonRegulat.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\PoligonRegulat\PoligonRegulat\obj\Debug\PoligonRegulat.exe
+C:\Users\Fineas\source\repos\PoligonRegulat\PoligonRegulat\obj\Debug\PoligonRegulat.pdb

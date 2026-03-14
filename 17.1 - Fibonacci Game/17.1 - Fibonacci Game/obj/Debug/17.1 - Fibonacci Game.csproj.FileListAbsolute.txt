@@ -1,0 +1,10 @@
+C:\Users\Fineas\source\repos\17.1 - Fibonacci Game\17.1 - Fibonacci Game\bin\Debug\17.1 - Fibonacci Game.exe.config
+C:\Users\Fineas\source\repos\17.1 - Fibonacci Game\17.1 - Fibonacci Game\bin\Debug\17.1 - Fibonacci Game.exe
+C:\Users\Fineas\source\repos\17.1 - Fibonacci Game\17.1 - Fibonacci Game\bin\Debug\17.1 - Fibonacci Game.pdb
+C:\Users\Fineas\source\repos\17.1 - Fibonacci Game\17.1 - Fibonacci Game\obj\Debug\17.1 - Fibonacci Game.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\17.1 - Fibonacci Game\17.1 - Fibonacci Game\obj\Debug\_17._1___Fibonacci_Game.Form1.resources
+C:\Users\Fineas\source\repos\17.1 - Fibonacci Game\17.1 - Fibonacci Game\obj\Debug\_17._1___Fibonacci_Game.Properties.Resources.resources
+C:\Users\Fineas\source\repos\17.1 - Fibonacci Game\17.1 - Fibonacci Game\obj\Debug\17.1 - Fibonacci Game.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\17.1 - Fibonacci Game\17.1 - Fibonacci Game\obj\Debug\17.1 - Fibonacci Game.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\17.1 - Fibonacci Game\17.1 - Fibonacci Game\obj\Debug\17.1 - Fibonacci Game.exe
+C:\Users\Fineas\source\repos\17.1 - Fibonacci Game\17.1 - Fibonacci Game\obj\Debug\17.1 - Fibonacci Game.pdb

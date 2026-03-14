@@ -1,0 +1,10 @@
+C:\Users\Elev.SALA1123\source\repos\17.3 - Binary Memory Game\17.3 - Binary Memory Game\bin\Debug\17.3 - Binary Memory Game.exe.config
+C:\Users\Elev.SALA1123\source\repos\17.3 - Binary Memory Game\17.3 - Binary Memory Game\bin\Debug\17.3 - Binary Memory Game.exe
+C:\Users\Elev.SALA1123\source\repos\17.3 - Binary Memory Game\17.3 - Binary Memory Game\bin\Debug\17.3 - Binary Memory Game.pdb
+C:\Users\Elev.SALA1123\source\repos\17.3 - Binary Memory Game\17.3 - Binary Memory Game\obj\Debug\17.3 - Binary Memory Game.csproj.AssemblyReference.cache
+C:\Users\Elev.SALA1123\source\repos\17.3 - Binary Memory Game\17.3 - Binary Memory Game\obj\Debug\_17._3___Binary_Memory_Game.Form1.resources
+C:\Users\Elev.SALA1123\source\repos\17.3 - Binary Memory Game\17.3 - Binary Memory Game\obj\Debug\_17._3___Binary_Memory_Game.Properties.Resources.resources
+C:\Users\Elev.SALA1123\source\repos\17.3 - Binary Memory Game\17.3 - Binary Memory Game\obj\Debug\17.3 - Binary Memory Game.csproj.GenerateResource.cache
+C:\Users\Elev.SALA1123\source\repos\17.3 - Binary Memory Game\17.3 - Binary Memory Game\obj\Debug\17.3 - Binary Memory Game.csproj.CoreCompileInputs.cache
+C:\Users\Elev.SALA1123\source\repos\17.3 - Binary Memory Game\17.3 - Binary Memory Game\obj\Debug\17.3 - Binary Memory Game.exe
+C:\Users\Elev.SALA1123\source\repos\17.3 - Binary Memory Game\17.3 - Binary Memory Game\obj\Debug\17.3 - Binary Memory Game.pdb

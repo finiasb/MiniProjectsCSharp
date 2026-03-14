@@ -1,0 +1,10 @@
+C:\Users\Elev.SALA1123\source\repos\17.2 - Magazin (DGW cu imagini)\17.2 - Magazin (DGW cu imagini)\bin\Debug\17.2 - Magazin (DGW cu imagini).exe.config
+C:\Users\Elev.SALA1123\source\repos\17.2 - Magazin (DGW cu imagini)\17.2 - Magazin (DGW cu imagini)\bin\Debug\17.2 - Magazin (DGW cu imagini).exe
+C:\Users\Elev.SALA1123\source\repos\17.2 - Magazin (DGW cu imagini)\17.2 - Magazin (DGW cu imagini)\bin\Debug\17.2 - Magazin (DGW cu imagini).pdb
+C:\Users\Elev.SALA1123\source\repos\17.2 - Magazin (DGW cu imagini)\17.2 - Magazin (DGW cu imagini)\obj\Debug\17.2 - Magazin (DGW cu imagini).csproj.AssemblyReference.cache
+C:\Users\Elev.SALA1123\source\repos\17.2 - Magazin (DGW cu imagini)\17.2 - Magazin (DGW cu imagini)\obj\Debug\_17._2___Magazin__DGW_cu_imagini_.Form1.resources
+C:\Users\Elev.SALA1123\source\repos\17.2 - Magazin (DGW cu imagini)\17.2 - Magazin (DGW cu imagini)\obj\Debug\_17._2___Magazin__DGW_cu_imagini_.Properties.Resources.resources
+C:\Users\Elev.SALA1123\source\repos\17.2 - Magazin (DGW cu imagini)\17.2 - Magazin (DGW cu imagini)\obj\Debug\17.2 - Magazin (DGW cu imagini).csproj.GenerateResource.cache
+C:\Users\Elev.SALA1123\source\repos\17.2 - Magazin (DGW cu imagini)\17.2 - Magazin (DGW cu imagini)\obj\Debug\17.2 - Magazin (DGW cu imagini).csproj.CoreCompileInputs.cache
+C:\Users\Elev.SALA1123\source\repos\17.2 - Magazin (DGW cu imagini)\17.2 - Magazin (DGW cu imagini)\obj\Debug\17.2 - Magazin (DGW cu imagini).exe
+C:\Users\Elev.SALA1123\source\repos\17.2 - Magazin (DGW cu imagini)\17.2 - Magazin (DGW cu imagini)\obj\Debug\17.2 - Magazin (DGW cu imagini).pdb

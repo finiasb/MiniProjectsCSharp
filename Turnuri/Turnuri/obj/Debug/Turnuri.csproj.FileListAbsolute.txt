@@ -1,0 +1,10 @@
+C:\Users\Fineas\source\repos\Turnuri\Turnuri\bin\Debug\Turnuri.exe.config
+C:\Users\Fineas\source\repos\Turnuri\Turnuri\bin\Debug\Turnuri.exe
+C:\Users\Fineas\source\repos\Turnuri\Turnuri\bin\Debug\Turnuri.pdb
+C:\Users\Fineas\source\repos\Turnuri\Turnuri\obj\Debug\Turnuri.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\Turnuri\Turnuri\obj\Debug\Turnuri.Form1.resources
+C:\Users\Fineas\source\repos\Turnuri\Turnuri\obj\Debug\Turnuri.Properties.Resources.resources
+C:\Users\Fineas\source\repos\Turnuri\Turnuri\obj\Debug\Turnuri.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\Turnuri\Turnuri\obj\Debug\Turnuri.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\Turnuri\Turnuri\obj\Debug\Turnuri.exe
+C:\Users\Fineas\source\repos\Turnuri\Turnuri\obj\Debug\Turnuri.pdb

@@ -1,0 +1,10 @@
+C:\Users\Fineas\source\repos\CercuriSiPlusuri\CercuriSiPlusuri\bin\Debug\CercuriSiPlusuri.exe.config
+C:\Users\Fineas\source\repos\CercuriSiPlusuri\CercuriSiPlusuri\bin\Debug\CercuriSiPlusuri.exe
+C:\Users\Fineas\source\repos\CercuriSiPlusuri\CercuriSiPlusuri\bin\Debug\CercuriSiPlusuri.pdb
+C:\Users\Fineas\source\repos\CercuriSiPlusuri\CercuriSiPlusuri\obj\Debug\CercuriSiPlusuri.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\CercuriSiPlusuri\CercuriSiPlusuri\obj\Debug\CercuriSiPlusuri.Form1.resources
+C:\Users\Fineas\source\repos\CercuriSiPlusuri\CercuriSiPlusuri\obj\Debug\CercuriSiPlusuri.Properties.Resources.resources
+C:\Users\Fineas\source\repos\CercuriSiPlusuri\CercuriSiPlusuri\obj\Debug\CercuriSiPlusuri.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\CercuriSiPlusuri\CercuriSiPlusuri\obj\Debug\CercuriSiPlusuri.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\CercuriSiPlusuri\CercuriSiPlusuri\obj\Debug\CercuriSiPlusuri.exe
+C:\Users\Fineas\source\repos\CercuriSiPlusuri\CercuriSiPlusuri\obj\Debug\CercuriSiPlusuri.pdb

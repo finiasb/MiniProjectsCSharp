@@ -1,0 +1,10 @@
+C:\Users\Fineas\source\repos\Piata\Piata\bin\Debug\Piata.exe.config
+C:\Users\Fineas\source\repos\Piata\Piata\bin\Debug\Piata.exe
+C:\Users\Fineas\source\repos\Piata\Piata\bin\Debug\Piata.pdb
+C:\Users\Fineas\source\repos\Piata\Piata\obj\Debug\Piata.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\Piata\Piata\obj\Debug\Piata.Form1.resources
+C:\Users\Fineas\source\repos\Piata\Piata\obj\Debug\Piata.Properties.Resources.resources
+C:\Users\Fineas\source\repos\Piata\Piata\obj\Debug\Piata.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\Piata\Piata\obj\Debug\Piata.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\Piata\Piata\obj\Debug\Piata.exe
+C:\Users\Fineas\source\repos\Piata\Piata\obj\Debug\Piata.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17.2 - Magazin (DGW cu imagini)", "17.2 - Magazin (DGW cu imagini)\17.2 - Magazin (DGW cu imagini).csproj", "{FDE5697C-6A0E-48CC-9FB3-56340DAF672D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDE5697C-6A0E-48CC-9FB3-56340DAF672D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDE5697C-6A0E-48CC-9FB3-56340DAF672D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDE5697C-6A0E-48CC-9FB3-56340DAF672D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDE5697C-6A0E-48CC-9FB3-56340DAF672D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BE86AC1-DF7D-456E-8E1A-F11D31A91C1E}
+	EndGlobalSection
+EndGlobal

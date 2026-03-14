@@ -1,0 +1,48 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Elev.SALA1123\\source\\repos\\17.2 - Magazin (DGW cu imagini)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDE5697C-6A0E-48CC-9FB3-56340DAF672D}|17.2 - Magazin (DGW cu imagini)\\17.2 - Magazin (DGW cu imagini).csproj|c:\\users\\elev.sala1123\\source\\repos\\17.2 - magazin (dgw cu imagini)\\17.2 - magazin (dgw cu imagini)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FDE5697C-6A0E-48CC-9FB3-56340DAF672D}|17.2 - Magazin (DGW cu imagini)\\17.2 - Magazin (DGW cu imagini).csproj|solutionrelative:17.2 - magazin (dgw cu imagini)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Elev.SALA1123\\source\\repos\\17.2 - Magazin (DGW cu imagini)\\17.2 - Magazin (DGW cu imagini)\\Form1.cs",
+              "RelativeDocumentMoniker": "17.2 - Magazin (DGW cu imagini)\\Form1.cs",
+              "ToolTip": "C:\\Users\\Elev.SALA1123\\source\\repos\\17.2 - Magazin (DGW cu imagini)\\17.2 - Magazin (DGW cu imagini)\\Form1.cs [Design]",
+              "RelativeToolTip": "17.2 - Magazin (DGW cu imagini)\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T07:05:50.566Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
