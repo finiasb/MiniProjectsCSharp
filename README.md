@@ -1,55 +1,57 @@
-# 📂 MiniProjectsCSharp
+# MiniProjectsC# 🚀
 
-A comprehensive collection of C# mini-projects, exercises, and Windows Forms applications. This repository serves as a portfolio of my learning journey, featuring tools, simple games, UI experiments, and solutions to algorithmic problems (including Olympiad/Contest problems).
+A comprehensive collection of C# Windows Forms applications, ranging from basic logic exercises to advanced SQL integrations and games.
 
-## 🛠️ Technologies Used
-* **Language:** C#
-* **Framework:** .NET (Windows Forms)
-* **IDE:** Visual Studio
+## 📂 Project Structure
 
-## 📚 Project Overview
+This repository contains various mini-projects organized by their complexity and topic:
 
-Below is a categorized list of the applications found in this repository:
+### 🟢 Basics & Logic
+* **01.1 Up and down**: Basic counter logic.
+* **01.2 Binar**: Binary conversion exercises.
+* **01.3 Calculator**: Standard arithmetic calculator.
+* **02.1 Forme multiple**: Working with multiple Windows Forms.
+* **04.1 Calculator de timp**: Time-based calculations.
+* **14.3 Provocare matematică**: Math challenge quiz.
 
-### 🎮 Games
-| Project Name | Description |
-| :--- | :--- |
-| **RockPaperScissors** | Classic game implementation against the computer. |
-| **GuessTheNumber** | Logic game where the user guesses a random number. |
-| **GuessTheCountry** | Geography quiz game. |
-| **Dice Roll** (`07.2`) | A simple RNG (Random Number Generator) dice simulator. |
-| **Race** (`08.3`) | A racing simulation/game. |
+### 🎮 Games & Animations
+* **02.2 Guess the number**: Classic number guessing game.
+* **02.3 Rock, Paper, Scissors**: Implementation of the RPS game.
+* **03.3 Guess the country**: Geography quiz game.
+* **04.3 Fruits Game**: Interactive fruit-themed game.
+* **07.2 Dice Roll**: Randomized dice simulator.
+* **08.2 Animatie / 08.3 Race**: Basic animation principles and a racing sim.
+* **09.2 ClickerGame**: Incremental clicker mechanics.
+* **10.1 Hangman**: The classic word-guessing game.
+* **12.3 Snake**: Implementation of the retro Snake game.
+* **13.3 Penalty Game**: Football/Soccer penalty shootout.
+* **14.1 Car race / 14.2 T-rex**: Arcade-style runner games.
 
-### 🖥️ Utility & UI Applications
-| Project Name | Description |
-| :--- | :--- |
-| **Calculator** | A functional standard calculator. |
-| **Login form** (`06.1`) | User interface practice for authentication screens. |
-| **Fitness small app** (`06.2`) | A utility for tracking fitness metrics or BMI. |
-| **Catalog** | A student grade or item management system. |
-| **Timp / Date Utilities** | Projects managing time and date logic (folder `Timp`). |
+### 🗄️ Database & Data Handling (SQL)
+* **05.2 Bilete SQL**: Ticketing system using SQL.
+* **05.3 Țări și capitale**: Database of countries and capitals.
+* **06.1 Login form**: Secure user authentication UI.
+* **06.3 Magazinut**: Full CRUD operations (SELECT, INSERT, UPDATE, DELETE).
+* **09.3 DataGridView1 / 10.2 Charts**: Data visualization and grid management.
 
-### 🎨 Graphics & Animation
-| Project Name | Description |
-| :--- | :--- |
-| **First Paint** (`07.3`) | A basic drawing application using GDI+. |
-| **Animatie** (`08.2`) | Experiments with movement and animation controls. |
-| **Xmas mood** (`07.1`) | Themed application likely featuring holiday graphics. |
+### 🎨 Graphics & UI Controls
+* **03.1 Combobox / 03.2 Masini**: Working with UI selection controls.
+* **07.3 First Paint / 12.1 Paint**: Basic drawing applications.
+* **09.1 RGB**: Color manipulation tool.
+* **11.1 Animate name**: Text-based animation effects.
+* **16.1 - 16.3 Drag and drop**: Exercises on drag-and-drop functionality.
 
-### 🧠 Algorithms & Education
-| Project Name | Description |
-| :--- | :--- |
-| **Judeteana 2011 / 2012** | Solutions for the Computer Science County Olympiad (OJI). |
-| **Bilete SQL** (`05.2`) | Database interaction and SQL query practice. |
-| **Binar** | Binary conversion or logic operations. |
-| **Țări și capitale** (`05.3`) | Dictionary/Map logic connecting countries to capitals. |
+### 📝 Practical Apps & Exams
+* **04.2 Catalog**: Student grading/catalog system.
+* **05.1 Județeana 2011 / 08.4 Judeteana 2012**: Solutions for Romanian National Olympiad (OJI) subjects.
+* **06.2 Fitness small app**: A simple health tracking utility.
+* **13.1 Print preview**: Implementing printing functionality in WinForms.
 
-### 🎛️ Controls & Experiments
-* **ComboBox / Numericup_and_down:** Specific practices with Windows Forms controls.
-* **FormeMultiple:** Managing data across multiple windows.
-* **Masini:** Object-Oriented Programming (OOP) practice using Car classes.
+## 🛠️ Requirements
 
----
+* **Visual Studio** (2019 or newer recommended)
+* **.NET Framework / .NET Core** (depending on the project version)
+* **SQL Server** (for projects involving database management)
 
 ## 🚀 How to Run
 
@@ -57,12 +59,9 @@ Below is a categorized list of the applications found in this repository:
     ```bash
     git clone [https://github.com/finiasb/MiniProjectsCSharp.git](https://github.com/finiasb/MiniProjectsCSharp.git)
     ```
-2.  Open the solution file **`MiniprojectsC#.sln`** in **Visual Studio**.
-3.  In the **Solution Explorer**, right-click the project you want to run (e.g., `Calculator`) and select **"Set as Startup Project"**.
-4.  Press **F5** or click **Start** to run the application.
+2.  Open `MiniprojectsC#.sln` in Visual Studio.
+3.  Set the desired project as the **Startup Project**.
+4.  Press `F5` to build and run.
 
 ---
-
-## 📝 License
-
-This project is open for educational use.
+⭐ *Feel free to use these snippets for learning or as templates for your own C# journey!*
