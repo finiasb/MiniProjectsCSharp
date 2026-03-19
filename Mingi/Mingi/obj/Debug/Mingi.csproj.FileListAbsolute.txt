@@ -1,0 +1,10 @@
+C:\Users\Fineas\source\repos\Mingi\Mingi\bin\Debug\Mingi.exe.config
+C:\Users\Fineas\source\repos\Mingi\Mingi\bin\Debug\Mingi.exe
+C:\Users\Fineas\source\repos\Mingi\Mingi\bin\Debug\Mingi.pdb
+C:\Users\Fineas\source\repos\Mingi\Mingi\obj\Debug\Mingi.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\Mingi\Mingi\obj\Debug\Mingi.Form1.resources
+C:\Users\Fineas\source\repos\Mingi\Mingi\obj\Debug\Mingi.Properties.Resources.resources
+C:\Users\Fineas\source\repos\Mingi\Mingi\obj\Debug\Mingi.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\Mingi\Mingi\obj\Debug\Mingi.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\Mingi\Mingi\obj\Debug\Mingi.exe
+C:\Users\Fineas\source\repos\Mingi\Mingi\obj\Debug\Mingi.pdb
