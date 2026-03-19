@@ -103,6 +103,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoligonRegulat", "PoligonRe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Turnuri", "Turnuri\Turnuri\Turnuri.csproj", "{69809043-907A-497C-87A9-CB3B2D2C2454}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ceasuri", "Ceasuri\Ceasuri\Ceasuri.csproj", "{9E0F33ED-8B23-4ED2-AA3B-79FFAD7633D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -309,6 +311,10 @@ Global
 		{69809043-907A-497C-87A9-CB3B2D2C2454}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69809043-907A-497C-87A9-CB3B2D2C2454}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69809043-907A-497C-87A9-CB3B2D2C2454}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E0F33ED-8B23-4ED2-AA3B-79FFAD7633D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E0F33ED-8B23-4ED2-AA3B-79FFAD7633D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E0F33ED-8B23-4ED2-AA3B-79FFAD7633D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E0F33ED-8B23-4ED2-AA3B-79FFAD7633D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

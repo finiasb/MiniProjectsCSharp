@@ -36,44 +36,6 @@ namespace _17._1___Fibonacci_Game
                 for (int j = 0; j < 10; j++)
                     matrice[i, j] = rnd.Next(1, 16);
         }
-
-        private void panel1_Paint(object sender, PaintEventArgs e)
-        {
-            Graphics g = e.Graphics;
-            Pen penGrid = new Pen(Color.Black, 1);
-            Brush brushFibo = new SolidBrush(Color.LightCyan);
-            Brush brushNormal = new SolidBrush(Color.LightGreen);
-            Brush brushNormal2 = new SolidBrush(Color.Black);
-
-            Brush blueBall = new SolidBrush(Color.Blue);
-
-           
-
-            for (int i = 0; i < 10; i++) 
-            {
-                for (int j = 0; j < 10; j++) 
-                {
-                    
-                    Rectangle rect = new Rectangle(i * cellSize, j * cellSize, cellSize, cellSize);
-
-                    if (list.Contains(matrice[i, j]))
-                        g.FillRectangle(brushFibo, rect);
-                    else
-                        g.FillRectangle(brushNormal, rect);
-
-                    g.DrawRectangle(penGrid, rect);
-
-                    string txt = matrice[i, j].ToString();
-                    g.DrawString(txt, this.Font, Brushes.Black, i * cellSize + 15, j * cellSize + 15);
-                }
-            }
-            foreach (Point p in points)
-            {
-                Rectangle rec = new Rectangle(p.X, p.Y, cellSize, cellSize);
-                g.FillRectangle(brushNormal2, rec);
-            }
-            g.FillEllipse(blueBall, circleCol * cellSize + 5, circleRow * cellSize + 5, cellSize - 10, cellSize - 10);
-        }
         int cntFibo, cntNormal; 
         private void Form1_KeyDown(object sender, KeyEventArgs e)
         {
@@ -93,7 +55,7 @@ namespace _17._1___Fibonacci_Game
                 cntFibo++;
             else
                 cntNormal++;
-            panel1.Invalidate();
+            panel1.Refresh();
 
             if (circleCol == 9 && circleRow == 9)
             {
@@ -103,7 +65,7 @@ namespace _17._1___Fibonacci_Game
                 points.Add(new Point(0, 0));
                 circleRow = 0;
                 circleCol = 0;
-                panel1.Invalidate();
+                panel1.Refresh();
                 label1.Text = scor.ToString();
                 chart1.Visible = true;
                 chart1.Series[0].Points.AddY(cntFibo);
@@ -131,6 +93,54 @@ namespace _17._1___Fibonacci_Game
             }
         }
 
+        private void Form1_Paint(object sender, PaintEventArgs e)
+        {
+            
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+            Graphics g = e.Graphics;
+            Pen penGrid = new Pen(Color.Black, 1);
+            Brush brushFibo = new SolidBrush(Color.LightCyan);
+            Brush brushNormal = new SolidBrush(Color.LightGreen);
+            Brush brushNormal2 = new SolidBrush(Color.Black);
+
+            Brush blueBall = new SolidBrush(Color.Blue);
+
+
+
+            for (int i = 0; i < 10; i++)
+            {
+                for (int j = 0; j < 10; j++)
+                {
+
+                    Rectangle rect = new Rectangle(i * cellSize, j * cellSize, cellSize, cellSize);
+
+                    if (list.Contains(matrice[i, j]))
+                        g.FillRectangle(brushFibo, rect);
+                    else
+                        g.FillRectangle(brushNormal, rect);
+
+                    g.DrawRectangle(penGrid, rect);
+
+                    string txt = matrice[i, j].ToString();
+                    g.DrawString(txt, this.Font, Brushes.Black, i * cellSize + 15, j * cellSize + 15);
+                }
+            }
+            foreach (Point p in points)
+            {
+                Rectangle rec = new Rectangle(p.X, p.Y, cellSize, cellSize);
+                g.FillRectangle(brushNormal2, rec);
+            }
+            g.FillEllipse(blueBall, circleCol * cellSize + 5, circleRow * cellSize + 5, cellSize - 10, cellSize - 10);
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+
+        }
+
         private void button1_Click(object sender, EventArgs e)
         {
             scor = 0;
@@ -144,7 +154,7 @@ namespace _17._1___Fibonacci_Game
             chart1.Visible = false;
             cntFibo = 0;
             cntNormal = 0;
-            panel1.Invalidate();
+            panel1.Refresh();
         }
     }
 }

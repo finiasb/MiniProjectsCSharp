@@ -1,0 +1,10 @@
+C:\Users\Fineas\source\repos\Ceasuri\Ceasuri\bin\Debug\Ceasuri.exe.config
+C:\Users\Fineas\source\repos\Ceasuri\Ceasuri\bin\Debug\Ceasuri.exe
+C:\Users\Fineas\source\repos\Ceasuri\Ceasuri\bin\Debug\Ceasuri.pdb
+C:\Users\Fineas\source\repos\Ceasuri\Ceasuri\obj\Debug\Ceasuri.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\Ceasuri\Ceasuri\obj\Debug\Ceasuri.Form1.resources
+C:\Users\Fineas\source\repos\Ceasuri\Ceasuri\obj\Debug\Ceasuri.Properties.Resources.resources
+C:\Users\Fineas\source\repos\Ceasuri\Ceasuri\obj\Debug\Ceasuri.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\Ceasuri\Ceasuri\obj\Debug\Ceasuri.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\Ceasuri\Ceasuri\obj\Debug\Ceasuri.exe
+C:\Users\Fineas\source\repos\Ceasuri\Ceasuri\obj\Debug\Ceasuri.pdb
