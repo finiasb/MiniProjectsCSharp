@@ -1,0 +1,10 @@
+C:\Users\Fineas\source\repos\MiniProjectsCSharp\14.3 - Provocare matematică\14.3 - Provocare matematică\bin\Debug\Fibonaci.exe.config
+C:\Users\Fineas\source\repos\MiniProjectsCSharp\14.3 - Provocare matematică\14.3 - Provocare matematică\bin\Debug\Fibonaci.exe
+C:\Users\Fineas\source\repos\MiniProjectsCSharp\14.3 - Provocare matematică\14.3 - Provocare matematică\bin\Debug\Fibonaci.pdb
+C:\Users\Fineas\source\repos\MiniProjectsCSharp\14.3 - Provocare matematică\14.3 - Provocare matematică\obj\Debug\14.3 - Provocare matematică.csproj.AssemblyReference.cache
+C:\Users\Fineas\source\repos\MiniProjectsCSharp\14.3 - Provocare matematică\14.3 - Provocare matematică\obj\Debug\Fibonaci.Form1.resources
+C:\Users\Fineas\source\repos\MiniProjectsCSharp\14.3 - Provocare matematică\14.3 - Provocare matematică\obj\Debug\Fibonaci.Properties.Resources.resources
+C:\Users\Fineas\source\repos\MiniProjectsCSharp\14.3 - Provocare matematică\14.3 - Provocare matematică\obj\Debug\14.3 - Provocare matematică.csproj.GenerateResource.cache
+C:\Users\Fineas\source\repos\MiniProjectsCSharp\14.3 - Provocare matematică\14.3 - Provocare matematică\obj\Debug\14.3 - Provocare matematică.csproj.CoreCompileInputs.cache
+C:\Users\Fineas\source\repos\MiniProjectsCSharp\14.3 - Provocare matematică\14.3 - Provocare matematică\obj\Debug\Fibonaci.exe
+C:\Users\Fineas\source\repos\MiniProjectsCSharp\14.3 - Provocare matematică\14.3 - Provocare matematică\obj\Debug\Fibonaci.pdb

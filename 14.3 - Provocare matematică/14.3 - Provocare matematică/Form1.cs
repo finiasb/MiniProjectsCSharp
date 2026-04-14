@@ -50,7 +50,6 @@ namespace Fibonaci
                 if (i == 1)
                 {
                     y += 10;
-
                 }
                 if (i == 2)
                 {
@@ -58,7 +57,6 @@ namespace Fibonaci
                     x += 10;
                     Rectangle rectangle = new Rectangle(390, 250, 10 * 2, 10 * 2);
                     g.DrawArc(arc, rectangle.X, rectangle.Y - 10, 10 * 2, 10 * 2, 90, 90);
-
                 }
                 if (i == 3)
                 {
@@ -66,15 +64,12 @@ namespace Fibonaci
                     x -= 10;
                     Rectangle rectangle = new Rectangle(400, 240, 20 * 2, 20 * 2);
                     g.DrawArc(arc, rectangle.X - 20, rectangle.Y - 20, 20 * 2, 20 * 2, 360, 90);
-
                 }
                 if (i == 4)
                 {
                     x -= 50;
                     Rectangle rectangle = new Rectangle(390, 210, 30 * 2, 30 * 2);
-
                     g.DrawArc(arc, rectangle.X - 30, rectangle.Y, 30 * 2, 30 * 2, 270, 90);
-
                 }
                 if (i == 5)
                 {
@@ -111,16 +106,9 @@ namespace Fibonaci
 
                 if (i == 0)
                     continue;
-               
-
                 
                 if ((i - 1) % 4 == 3)
                     g.DrawArc(arc, rec2, 180, 90);
-
-
-
-               
-
             }
 
 
