@@ -1,0 +1,223 @@
+﻿<Window x:Class="AplicatieEco.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:lvc="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf"
+        Title="Aplicația Verde - Stil de Viață Sustenabil" Height="650" Width="900"
+        Background="#F0F4F0">
+
+    <Grid>
+        <TabControl x:Name="TabPrincipal" Margin="10" Background="Transparent" BorderThickness="0">
+
+            <TabItem Header="Monitorizare și Calcul">
+                <Grid Margin="10">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="320"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <Border Grid.Column="0" Background="White" CornerRadius="5" Margin="5" Padding="20">
+                        <StackPanel>
+                            <TextBlock Text="Introdu Date Zilnice" FontSize="20" FontWeight="Bold" Foreground="#2E7D32" Margin="0,0,0,20"/>
+
+                            <TextBlock Text="Data:" FontWeight="Bold"/>
+                            <DatePicker x:Name="dpData" Margin="0,5,0,15"/>
+
+                            <TextBlock Text="Consum Apă (litri):" FontWeight="Bold"/>
+                            <TextBox x:Name="txtApa" Margin="0,5,0,15" Padding="8"/>
+
+                            <TextBlock Text="Consum Energie (kWh):" FontWeight="Bold"/>
+                            <TextBox x:Name="txtEnergie" Margin="0,5,0,15" Padding="8"/>
+
+                            <TextBlock Text="Transport (km):" FontWeight="Bold"/>
+                            <TextBox x:Name="txtTransport" Margin="0,5,0,20" Padding="8"/>
+
+                            <Button Content="Calculează și Adaugă" Click="BtnAdauga_Click" 
+                                    Background="#4CAF50" Foreground="White" FontWeight="Bold" FontSize="14" Padding="12" Cursor="Hand"/>
+
+                            <Separator Margin="0,20"/>
+
+                            <TextBlock Text="Recomandare Rapidă:" FontWeight="Bold" Margin="0,10,0,5"/>
+                            <Border Background="#F9F9F9" Padding="10" CornerRadius="5">
+                                <TextBlock x:Name="lblRecomandare" TextWrapping="Wrap" FontStyle="Italic" Text="Introdu date pentru a primi sfaturi." Foreground="#555"/>
+                            </Border>
+                        </StackPanel>
+                    </Border>
+
+                    <Grid Grid.Column="1" Margin="10">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+
+                        <TextBlock Text="Istoric Consum și Scor Eco" FontSize="20" FontWeight="Bold" Foreground="#2E7D32" Margin="0,0,0,10"/>
+
+                        <DataGrid x:Name="dgDateEco" Grid.Row="1" AutoGenerateColumns="False" CanUserAddRows="False"
+                                  Background="White" BorderBrush="#A5D6A7" AlternatingRowBackground="#F1F8E9">
+                            <DataGrid.Columns>
+                                <DataGridTextColumn Header="Data" Binding="{Binding Data, StringFormat=d}" Width="*"/>
+                                <DataGridTextColumn Header="Apă (L)" Binding="{Binding Apa}" Width="70"/>
+                                <DataGridTextColumn Header="Energie (kWh)" Binding="{Binding Energie}" Width="100"/>
+                                <DataGridTextColumn Header="Transport (km)" Binding="{Binding Transport}" Width="100"/>
+                                <DataGridTextColumn Header="Scor Eco" Binding="{Binding ScorEco}" FontWeight="Bold" Width="80"/>
+                            </DataGrid.Columns>
+                        </DataGrid>
+                    </Grid>
+                </Grid>
+            </TabItem>
+
+            <TabItem Header="Grafic Scor Eco">
+                <Grid Margin="20">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+
+                    <TextBlock Text="Evoluția Scorului Eco (Grafic Liniar)" FontSize="22" FontWeight="Bold" Foreground="#2E7D32" Margin="0,0,0,20"/>
+
+                    <Border Grid.Row="1" Background="White" CornerRadius="5" Padding="20">
+                        <lvc:CartesianChart x:Name="liveChartEco" LegendLocation="None" Hoverable="True">
+                            <lvc:CartesianChart.AxisY>
+                                <lvc:Axis Title="Punctaj Eco" MinValue="0" MaxValue="100"/>
+                            </lvc:CartesianChart.AxisY>
+                            <lvc:CartesianChart.AxisX>
+                                <lvc:Axis Title="Zile Calendaristice" x:Name="axaX"/>
+                            </lvc:CartesianChart.AxisX>
+                        </lvc:CartesianChart>
+                    </Border>
+                </Grid>
+            </TabItem>
+
+            <TabItem Header="Poster Sustenabilitate">
+                <Grid Margin="10">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+
+
+                    <Border Grid.Row="1" Background="White" CornerRadius="5" Padding="10">
+                        <Image Source="poster.png" Stretch="Uniform" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Border>
+                </Grid>
+            </TabItem>
+
+            <TabItem Header="Ghid de Sustenabilitate">
+                <ScrollViewer VerticalScrollBarVisibility="Auto">
+                    <StackPanel Margin="20">
+                        <TextBlock Text="Cum să reduci amprenta de carbon" FontSize="22" FontWeight="Bold" Foreground="#2E7D32" Margin="0,0,0,20"/>
+
+                        <Border Background="White" CornerRadius="5" Padding="15" Margin="0,0,0,10">
+                            <StackPanel>
+                                <TextBlock Text="1. Elimină plasticul de unică folosință" FontWeight="Bold" FontSize="16" Foreground="#1B5E20"/>
+                                <TextBlock TextWrapping="Wrap" Text="Înlocuiește pungile de plastic cu sacoșe reutilizabile din material textil, folosește o sticlă de apă reutilizabilă și evită paiele sau paharele de cafea de unică folosință." Margin="0,5,0,0"/>
+                            </StackPanel>
+                        </Border>
+
+                        <Border Background="White" CornerRadius="5" Padding="15" Margin="0,0,0,10">
+                            <StackPanel>
+                                <TextBlock Text="2. Optimizează consumul de energie" FontWeight="Bold" FontSize="16" Foreground="#1B5E20"/>
+                                <TextBlock TextWrapping="Wrap" Text="Stinge luminile când nu ai nevoie de ele, înlocuiește becurile tradiționale cu LED (Becurile LED consumă mai puțină energie și au o durată de viață mai lungă)." Margin="0,5,0,0"/>
+                            </StackPanel>
+                        </Border>
+
+                        <Border Background="White" CornerRadius="5" Padding="15" Margin="0,0,0,10">
+                            <StackPanel>
+                                <TextBlock Text="3. Folosește produse refill (reîncărcabile)" FontWeight="Bold" FontSize="16" Foreground="#1B5E20"/>
+                                <TextBlock TextWrapping="Wrap" Text="Unul dintre cele mai simple moduri de a trăi sustenabil este utilizarea de produse refill. În loc să cumperi un ambalaj nou de fiecare dată, poți reumple recipientele existente." Margin="0,5,0,0"/>
+                            </StackPanel>
+                        </Border>
+
+                        <Border Background="White" CornerRadius="5" Padding="15" Margin="0,0,0,10">
+                            <StackPanel>
+                                <TextBlock Text="4. Redu risipa alimentară" FontWeight="Bold" FontSize="16" Foreground="#1B5E20"/>
+                                <TextBlock TextWrapping="Wrap" Text="Risipa alimentară este o problemă globală, dar poate fi prevenită prin câteva obiceiuri simple: planifică mesele în avans și cumpără doar ce ai nevoie, depozitează corect alimentele pentru a prelungi durata lor de viață, folosește resturile pentru a crea rețete creative, cum ar fi supe, salate sau smoothie-uri." Margin="0,5,0,0"/>
+                            </StackPanel>
+                        </Border>
+
+                        <Border Background="White" CornerRadius="5" Padding="15" Margin="0,0,0,10">
+                            <StackPanel>
+                                <TextBlock Text="5. Consumă alimente locale și de sezon" FontWeight="Bold" FontSize="16" Foreground="#1B5E20"/>
+                                <TextBlock TextWrapping="Wrap" Text="Cumpărăturile de la producătorii locali nu sunt doar o alegere sănătoasă, ci și una sustenabilă. Alegând alimente de sezon, reduci amprenta de carbon asociată transportului acestora." Margin="0,5,0,0"/>
+                            </StackPanel>
+                        </Border>
+                    </StackPanel>
+                </ScrollViewer>
+            </TabItem>
+
+            <TabItem Header="Întrebări și Reflecție">
+                <ScrollViewer VerticalScrollBarVisibility="Auto">
+                    <StackPanel Margin="20">
+                        <TextBlock Text="Analiza Impactului Personal" FontSize="22" FontWeight="Bold" Foreground="#2E7D32" Margin="0,0,0,20"/>
+
+                        <TextBlock Text="1. Care zi a avut cel mai mare scor eco? De ce?" FontWeight="Bold" FontSize="16" Margin="0,10,0,5"/>
+                        <Border Background="White" Padding="10" CornerRadius="5">
+                            <TextBlock TextWrapping="Wrap" Text="Ziua cu cel mai mare Scor Eco a fost 24 martie 2026, înregistrând un scor de 80. Acest lucru s-a întâmplat deoarece în această zi s-au înregistrat cele mai mici valori de consum la toate cele trei categorii monitorizate."/>
+                        </Border>
+
+                        <TextBlock Text="2. Ce obiceiuri zilnice pot fi schimbate pentru a crește scorul eco?" FontWeight="Bold" FontSize="16" Margin="0,20,0,5"/>
+                        <Border Background="White" Padding="10" CornerRadius="5">
+                            <StackPanel>
+                                <TextBlock FontWeight="Bold" Text="Reducerea consumului de apă:"/>
+                                <TextBlock Text="• Limitarea timpului petrecut la duș (de exemplu, sub 5 minute).&#x0a;• Oprirea apei în timp ce te speli pe dinți sau cand speli vasele.&#x0a;• Folosirea mașinii de spălat rufe/vase doar când este complet încărcată." Margin="15,0,0,5"/>
+
+                                <TextBlock FontWeight="Bold" Text="Eficientizarea consumului de energie:"/>
+                                <TextBlock Text="• Stingerea luminilor la părăsirea unei încăperi.&#x0a;• Scoaterea din priză a aparatelor electronice care nu sunt folosite.&#x0a;• Folosirea luminii naturale pe timpul zilei în locul celei artificiale." Margin="15,0,0,5"/>
+
+                                <TextBlock FontWeight="Bold" Text="Alternative de transport:"/>
+                                <TextBlock Text="• Înlocuirea mașinii personale cu transportul în comun pentru distanțe medii și lungi.&#x0a;• Mersul pe jos sau cu bicicleta pentru distanțe scurte." Margin="15,0,0,0"/>
+                            </StackPanel>
+                        </Border>
+
+                        <TextBlock Text="3. Cum ar putea fi folosit acest tabel sau grafic pentru a conștientiza impactul asupra mediului?" FontWeight="Bold" FontSize="16" Margin="0,20,0,5"/>
+                        <Border Background="White" Padding="10" CornerRadius="5">
+                            <StackPanel>
+                                <TextBlock TextWrapping="Wrap" Text="Acest tabel este un instrument excelent pentru a transforma un concept abstract („protejarea mediului”) în ceva concret și măsurabil. Uitați 2 moduri de a-l utiliza:"/>
+
+                                <TextBlock FontWeight="Bold" Text="• Stabilirea unor obiective de echipă:" Margin="0,10,0,2"/>
+                                <TextBlock TextWrapping="Wrap" Text="echipa poate analiza un istoric comun și poate seta un obiectiv clar: „Luna aceasta reducem consumul mediu de hârtie/energie la birou cu 10%”." Margin="15,0,0,5"/>
+
+                                <TextBlock FontWeight="Bold" Text="• Provocări amicale:" Margin="0,5,0,2"/>
+                                <TextBlock TextWrapping="Wrap" Text="Tabelul poate fi transformat într-o competiție la nivel de birou sau școală. Colegii își pot nota datele și pot concura pentru cel mai mare Scor Eco mediu, încurajând astfel schimbarea pozitivă a obiceiurilor." Margin="15,0,0,0"/>
+                            </StackPanel>
+                        </Border>
+                    </StackPanel>
+                </ScrollViewer>
+            </TabItem>
+        </TabControl>
+
+        <Grid x:Name="EcranIntroducere" Background="#F0F4F0" Visibility="Visible">
+            <Border Background="White" CornerRadius="15" Margin="50" Padding="30" VerticalAlignment="Center" MaxWidth="700">
+                <Border.Effect>
+                    <DropShadowEffect BlurRadius="15" Color="#CCC" Opacity="0.5" ShadowDepth="5"/>
+                </Border.Effect>
+
+                <StackPanel HorizontalAlignment="Center">
+                    <TextBlock Text="🌿 Aplicația Verde 🌿" FontSize="36" FontWeight="Bold" Foreground="#2E7D32" HorizontalAlignment="Center" Margin="0,0,0,10"/>
+                    <TextBlock Text="Ghidul tău digital pentru un stil de viață sustenabil" FontSize="16" FontStyle="Italic" Foreground="#666" HorizontalAlignment="Center" Margin="0,0,0,30"/>
+
+                    <TextBlock Text="Despre Proiect:" FontSize="18" FontWeight="Bold" Foreground="#1B5E20" Margin="0,0,0,10"/>
+                    <TextBlock Text="Această aplicație este un proiect educațional menit să ne ajute să monitorizăm consumul zilnic de resurse (apă, energie, transport). Vizualizând datele tale într-un mod măsurabil, poți lua decizii mai bune pentru protejarea planetei." 
+                               TextWrapping="Wrap" FontSize="14" Foreground="#333" Margin="0,0,0,20"/>
+
+                    <Border Background="#E8F5E9" Padding="15" CornerRadius="8" Margin="0,0,0,30">
+                        <StackPanel>
+                            <TextBlock Text="🎯 Ce poți face în aplicație?" FontWeight="Bold" Foreground="#2E7D32" Margin="0,0,0,5"/>
+                            <TextBlock Text="• Introduci consumul zilnic și afli Scorul tău Eco." Margin="10,0,0,2"/>
+                            <TextBlock Text="• Vizualizezi statistici LiveCharts prin grafice dinamice." Margin="10,0,0,2"/>
+                            <TextBlock Text="• Citești sfaturi practice pentru casă și birou." Margin="10,0,0,0"/>
+                        </StackPanel>
+                    </Border>
+
+                    <Button Content="Să începem! 🚀" Click="BtnStart_Click"
+                            Background="#4CAF50" Foreground="White" FontWeight="Bold" FontSize="16" Padding="15,20" Width="200" Cursor="Hand">
+                        <Button.Resources>
+                            <Style TargetType="Border">
+                                <Setter Property="CornerRadius" Value="10"/>
+                            </Style>
+                        </Button.Resources>
+                    </Button>
+                </StackPanel>
+            </Border>
+        </Grid>
+    </Grid>
+</Window>

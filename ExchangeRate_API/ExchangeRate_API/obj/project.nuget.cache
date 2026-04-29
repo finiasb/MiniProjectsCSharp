@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DdqzUEJNY6eFvNa6HRRiph0tENUlISJ4l5ssbK+M56RJfyFDfsK6LHsxr4oM3Y1umWbU/5qnIN8F4o8CmeaiIA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fineas\\source\\repos\\MiniProjectsCSharp\\ExchangeRate_API\\ExchangeRate_API\\ExchangeRate_API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fineas\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
