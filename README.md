@@ -6,7 +6,7 @@ A comprehensive collection of C# Windows Forms applications, ranging from basic 
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/finiasb/MiniProjectsCSharp.git](https://github.com/finiasb/MiniProjectsCSharp.git)
+    git clone https://github.com/finiasb/MiniProjectsCSharp.git
     ```
 2.  Open `MiniprojectsC#.sln` in Visual Studio.
 3.  Set the desired project as the **Startup Project**.
